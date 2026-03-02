@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I'm+Boyce+Cecil+%F0%9F%91%8B;Game+Dev+%7C+3D+Artist+%7C+AI+Researcher;ROS+2+%7C+MCP+%7C+Generative+AI;Unity+%7C+Godot+%7C+Unreal+Engine;Blender+%7C+Photoshop+%7C+Forward+Rendering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I'm+Boyce+Cecil+%F0%9F%91%8B;I+build+worlds+from+nothing.;Ship+it.+Break+it.+Make+it+better.;The+future+runs+on+code+I+haven't+written+yet.;Make+things+that+matter." alt="Typing SVG" />
 
 <br/>
 
