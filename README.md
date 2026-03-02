@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Boyce+Cecil+%F0%9F%91%8B;Game+Developer.+3D+Artist.+AI+Tinkerer.;Unity+%7C+Godot+%7C+Python+%7C+JS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I'm+Boyce+Cecil+%F0%9F%91%8B;Game+Dev+%7C+3D+Artist+%7C+AI+Researcher;ROS+2+%7C+MCP+%7C+Generative+AI;Unity+%7C+Godot+%7C+Unreal+Engine;Blender+%7C+Photoshop+%7C+Forward+Rendering" alt="Typing SVG" />
 
 <br/>
 
@@ -30,14 +30,31 @@ My stack spans Unity and Godot for game development, Python for 3D tooling and g
 
 <div align="center">
 
+**Game Engines & Realtime**
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Forward Rendering](https://img.shields.io/badge/Forward%20Rendering-8A2BE2?style=flat-square&logoColor=white)
+
+**AI & Robotics**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white)
+
+**3D & Creative**
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+**Web & Tools**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 </div>
 
@@ -62,9 +79,9 @@ My stack spans Unity and Godot for game development, Python for 3D tooling and g
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=boycececil666gmailcom&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boycececil666gmailcom&theme=github_dark" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boycececil666gmailcom&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boycececil666gmailcom&theme=github_dark" />
 
 </div>
 
@@ -81,6 +98,7 @@ My stack spans Unity and Godot for game development, Python for 3D tooling and g
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boycececil666gmailcom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-bao-3b7750232/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boycececil666@gmail.com)
 
 </div>
