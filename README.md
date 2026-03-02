@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Boyce+Cecil+%F0%9F%91%8B;Builder.+Thinker.+Open+Source+Enthusiast.;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Boyce+Cecil+%F0%9F%91%8B;Game+Developer.+3D+Artist.+AI+Tinkerer.;Unity+%7C+Godot+%7C+Python+%7C+JS" alt="Typing SVG" />
 
 <br/>
 
@@ -14,14 +14,15 @@
 
 ## About Me
 
-I write code to understand the world — and occasionally to change it.
+I make games and interactive experiences — and occasionally break them to understand how they work.
 
-I believe in open standards, transparent systems, and software that works for people rather than the other way around. Whether it's exploring the mechanics of the modern web, experimenting with systems design, or digging into how legal structures intersect with technology, I'm drawn to problems that genuinely matter.
+My stack spans Unity and Godot for game development, Python for 3D tooling and generative AI, and JavaScript for web and mini-app work. I'm drawn to projects that sit at the boundary of gameplay, simulation, and visual craft.
 
-- Currently building in public, learning out loud
-- Interested in **open-source law**, **civic tech**, and **developer tooling**
-- Strong opinions, loosely held
-- I read more than I tweet
+- Building games: currently working on **hellLove** (Unity + web client) and **Project Wildcard** (Godot)
+- Exploring **generative AI** for art and game asset production (Stable Diffusion)
+- HR simulation systems in Unity (**HRSIM**)
+- WeChat Mini Program development for mobile-first web experiences
+- Dabbling in **RimWorld** modding on the side
 
 ---
 
@@ -29,16 +30,31 @@ I believe in open standards, transparent systems, and software that works for pe
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 </div>
+
+---
+
+## Projects
+
+| Repo | Stack | Description |
+|------|-------|-------------|
+| [hellLove_unity_c-](https://github.com/boycececil666gmailcom/hellLove_unity_c-) | C# / Unity | Main Unity build of the hellLove game project |
+| [hellLoveTCB_TCB_js](https://github.com/boycececil666gmailcom/hellLoveTCB_TCB_js) | JavaScript | Web client layer for the hellLove project |
+| [ProjectWildcard_godot_gdscript](https://github.com/boycececil666gmailcom/ProjectWildcard_godot_gdscript) | Godot / GDScript | Game project built in Godot |
+| [HRSIM_unity_c](https://github.com/boycececil666gmailcom/HRSIM_unity_c) | C# / Unity | Human resources simulation system in Unity |
+| [3dWork](https://github.com/boycececil666gmailcom/3dWork) | Python | 3D tooling and scripts |
+| [Project-death](https://github.com/boycececil666gmailcom/Project-death) | HTML | Web-based project |
+| [MJDC_WXminiProgram_web](https://github.com/boycececil666gmailcom/MJDC_WXminiProgram_web) | JavaScript | WeChat Mini Program |
+| [Module_temp](https://github.com/boycececil666gmailcom/Module_temp) | C# | C# module / template work |
 
 ---
 
@@ -57,20 +73,6 @@ I believe in open standards, transparent systems, and software that works for pe
 ![GitHub Streak](https://streak-stats.demolab.com?user=boycececil666gmailcom&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
-
----
-
-## What I'm Thinking About
-
-> *"The source code is the documentation."*
-
-I'm particularly interested in how technology can make legal systems more legible, accountable, and accessible to ordinary people. Open-source infrastructure for civic life — not just for startups.
-
-Some threads I keep returning to:
-
-- How do you build software that outlasts its creators?
-- What would truly open legal infrastructure look like?
-- Can developer tooling close the gap between how the law works and how it's written?
 
 ---
 
