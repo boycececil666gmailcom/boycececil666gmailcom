@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I'm+Boyce+Cecil+%F0%9F%91%8B;I+build+worlds+from+nothing.;Ship+it.+Break+it.+Make+it+better.;The+future+runs+on+code+I+haven't+written+yet.;Make+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Hi%2C+I'm+Boyce+Cecil+%F0%9F%91%8B;%F0%9F%A4%96+AI%3A+%22AI+is+the+new+electricity.%22+%E2%80%94+Andrew+Ng;%F0%9F%A6%BE+Robotics%3A+%22A+robot+must+protect+its+own+existence.%22+%E2%80%94+Asimov;%F0%9F%8E%AE+Gaming%3A+%22It's+dangerous+to+go+alone!%22+%E2%80%94+The+Legend+of+Zelda" alt="Typing SVG" />
 
 <br/>
 
@@ -49,6 +49,12 @@ My stack spans Unity and Godot for game development, Python for 3D tooling and g
 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+**Blockchain**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 
 **Web & Tools**
 
