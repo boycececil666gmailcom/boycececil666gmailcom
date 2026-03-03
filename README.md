@@ -112,19 +112,6 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=boycececil666gmailcom&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-<sub>Enable <strong>"Show private contributions on my profile"</strong> in your <a href="https://github.com/settings/profile">GitHub settings</a> to reflect your full activity.</sub>
-
-</div>
-</div>
-
----
-
 <div align="center">
   <sub>Built with curiosity. Updated with intent.</sub>
 </div>
