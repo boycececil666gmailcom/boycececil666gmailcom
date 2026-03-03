@@ -68,7 +68,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ---
 
-## Frontiers I'm Building In
+## Fields I'm Interested In
 
 <div align="center">
 
