@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=400&speed=25&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I'm+Boyce+Cecil+%F0%9F%91%8B;%F0%9F%A4%96+AI%3A+%22AI+is+the+new+electricity.%22+%E2%80%94+Andrew+Ng;%F0%9F%A6%BE+Robotics%3A+%22A+robot+must+protect+its+own+existence.%22+%E2%80%94+Asimov;%F0%9F%8E%AE+Gaming%3A+%22War.+War+never+changes.%22+%E2%80%94+Fallout" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=400&speed=25&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I'm+Boyce+Cecil+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br/>
 
@@ -26,6 +26,14 @@ Building at the intersection of AI, 3D, and Robotics.
 
 <div align="center">
   <img src="intersection.svg" alt="AI · 3D · Robotics" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=AI;3D;Robotics" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=400&speed=25&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%A4%96+AI%3A+%22AI+is+the+new+electricity.%22+%E2%80%94+Andrew+Ng;%F0%9F%A6%BE+Robotics%3A+%22A+robot+must+protect+its+own+existence.%22+%E2%80%94+Asimov;%F0%9F%8E%AE+Gaming%3A+%22War.+War+never+changes.%22+%E2%80%94+Fallout" alt="Typing SVG" />
 </div>
 
 My primary focus is **AI engineering and agentic systems**: designing AI-driven workflows, building and integrating **MCP** servers, and working with generative models including **Stable Diffusion**. I use **Python** as my main instrument for everything from data pipelines to autonomous agents.
