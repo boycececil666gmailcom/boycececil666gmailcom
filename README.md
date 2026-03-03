@@ -18,7 +18,13 @@
 
 ## About Me
 
-I'm **Boyce Cecil** — a builder of immersive real-time experiences working primarily in **Unity** and **Python**, sculpting worlds in **Blender**, generating art with **Stable Diffusion**, and building AI-driven workflows with **MCP**. Currently shipping *hellLove* (a Unity real-time project with a JS web client), *Project Wildcard* (Godot), and *HRSIM* (a Unity-based simulation system).
+I'm **Boyce Cecil** — building at the intersection of AI, 3D, and Robotics.
+
+My primary focus is **AI engineering and agentic systems**: designing AI-driven workflows, building and integrating **MCP** servers, and working with generative models including **Stable Diffusion**. I use **Python** as my main instrument for everything from data pipelines to autonomous agents.
+
+In **3D and real-time environments**, I work across **Unity**, **Unreal Engine**, and **Blender** — from gameplay systems in C# to visual pipelines and simulation. Currently shipping *hellLove* (Unity + JS web client), *Project Wildcard* (Godot), and *HRSIM* (a Unity-based simulation system).
+
+In **Robotics**, I work with **ROS 2** for autonomous systems and low-level hardware using **STM32** and **Raspberry Pi** — bridging software intelligence with physical machines.
 
 I see the world as a system waiting to be understood — and rebuilt. Technology isn't just a tool; it's the language the future is written in, and I intend to be fluent.
 
