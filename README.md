@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=400&speed=25&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I'm+Boyce+Cecil+%F0%9F%91%8B" alt="Typing SVG" />
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration.;Full+cycle+oriented%3A+from+concept+and+architecture+to+shipping+and+iteration.;Building+at+the+intersection+of+AI%2C+3D%2C+and+Robotics." alt="Typing SVG" />
 </div>
