@@ -20,7 +20,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ---
 
-## Core Expertise — *by depth of practice*
+##  Expertise — *by depth of practice*
 
 <div align="center">
 
@@ -35,7 +35,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white)
 
-**Tier 2 — Strong Working Knowledge**
+**Tier 2 — Building Experience**
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,7 +43,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-**Tier 3 — Familiar & In Use**
+**Tier 3 — Exploring**
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
