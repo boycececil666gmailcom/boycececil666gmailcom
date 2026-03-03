@@ -40,20 +40,32 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 **Tier 3 — Exploring**
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
 </div>
 
 ---
+## Projects
 
-## Core Expertise by Fields
+| Repo | Stack | Description | Demonstrates |
+|------|-------|-------------|---|
+| [hellLove_unity_c-](https://github.com/boycececil666gmailcom/hellLove_unity_c-) | C# / Unity | Main Unity build of the hellLove game project | Tier 1 · Game Engines |
+| [hellLoveTCB_TCB_js](https://github.com/boycececil666gmailcom/hellLoveTCB_TCB_js) | JavaScript | Web client layer for the hellLove project | Tier 2 · Web |
+| [ProjectWildcard_godot_gdscript](https://github.com/boycececil666gmailcom/ProjectWildcard_godot_gdscript) | Godot / GDScript | Game project built in Godot | Tier 3 · Game Engines |
+| [HRSIM_unity_c](https://github.com/boycececil666gmailcom/HRSIM_unity_c) | C# / Unity | Human resources simulation system in Unity | Tier 1 · Game Engines |
+| [3dWork](https://github.com/boycececil666gmailcom/3dWork) | Python | 3D tooling and scripts | Tier 1 · AI & Robotics |
+| [Project-death](https://github.com/boycececil666gmailcom/Project-death) | HTML | Web-based project | Tier 3 · Web |
+| [MJDC_WXminiProgram_web](https://github.com/boycececil666gmailcom/MJDC_WXminiProgram_web) | JavaScript | WeChat Mini Program | Tier 2 · Web |
+| [Module_temp](https://github.com/boycececil666gmailcom/Module_temp) | C# | C# module / template work | Tier 1 · Game Engines |
+
+---
+## Tech I am interested in
 
 <div align="center">
 
@@ -93,36 +105,16 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ---
 
-## Projects
-
-| Repo | Stack | Description |
-|------|-------|-------------|
-| [hellLove_unity_c-](https://github.com/boycececil666gmailcom/hellLove_unity_c-) | C# / Unity | Main Unity build of the hellLove game project |
-| [hellLoveTCB_TCB_js](https://github.com/boycececil666gmailcom/hellLoveTCB_TCB_js) | JavaScript | Web client layer for the hellLove project |
-| [ProjectWildcard_godot_gdscript](https://github.com/boycececil666gmailcom/ProjectWildcard_godot_gdscript) | Godot / GDScript | Game project built in Godot |
-| [HRSIM_unity_c](https://github.com/boycececil666gmailcom/HRSIM_unity_c) | C# / Unity | Human resources simulation system in Unity |
-| [3dWork](https://github.com/boycececil666gmailcom/3dWork) | Python | 3D tooling and scripts |
-| [Project-death](https://github.com/boycececil666gmailcom/Project-death) | HTML | Web-based project |
-| [MJDC_WXminiProgram_web](https://github.com/boycececil666gmailcom/MJDC_WXminiProgram_web) | JavaScript | WeChat Mini Program |
-| [Module_temp](https://github.com/boycececil666gmailcom/Module_temp) | C# | C# module / template work |
-
----
 
 ## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boycececil666gmailcom&theme=github_dark" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boycececil666gmailcom&theme=github_dark" />
-
-</div>
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=boycececil666gmailcom&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
+
+> *To include private contributions in the streak above, go to your [GitHub profile settings](https://github.com/settings/profile) and enable **"Show private contributions on my profile"**.*
 
 ---
 
