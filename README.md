@@ -78,6 +78,16 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ---
 
+## Background
+
+| | |
+|---|---|
+| 🎓 **Education** | Business English · Jiangxi University *(QS ~#XXX)* · 2021 – 2025 *(incl. 1 gap year)* |
+| 💼 **Experience** | Software Engineer · Thundersoft · Nagoya, Japan · 2025 – present |
+| 🌐 **Languages** | English — TOEFL 105+ &nbsp;·&nbsp; Japanese — JLPT N__ |
+
+---
+
 <div align="center">
   <sub>Built with curiosity. Updated with intent.</sub>
 </div>
