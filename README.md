@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration.;Full+cycle+oriented%3A+from+concept+and+architecture+to+iteration+and+shipping.;Building+at+the+intersection+of+AI%2C+3D%2C+and+Robotics." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration.;Full+cycle+oriented%3A+concept+-%3E+architecture+-%3E+iteration+-%3E+shipping.;Building+at+the+intersection+of+AI%2C+3D%2C+and+Robotics." alt="Typing SVG" />
 </div>
 
 
@@ -24,7 +24,7 @@
 
 Self-taught through AI tools, open-source communities, and relentless iteration. 
 
-Full cycle oriented: from concept and architecture to iteration and shipping.
+Full cycle oriented: concept -> architecture -> iteration -> shipping.
 
 Building at the intersection of AI, 3D, and Robotics. 
 
