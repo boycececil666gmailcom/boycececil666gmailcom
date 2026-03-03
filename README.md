@@ -82,9 +82,9 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 | | |
 |---|---|
-| 🎓 **Education** | Business English · Jiangxi University *(QS ~#XXX)* · 2021 – 2025 *(incl. 1 gap year)* |
+| 🎓 **Education** | Business English · Jiangxi University *(QS ~800)* · 2021 – 2025 *(incl. 1 gap year)* |
 | 💼 **Experience** | Software Engineer · Thundersoft · Nagoya, Japan · 2025 – present |
-| 🌐 **Languages** | English — TOEFL 105+ &nbsp;·&nbsp; Japanese — JLPT N__ |
+| 🌐 **Languages** | English — TOEFL 105+ &nbsp;·&nbsp; Japanese — JLPT N1 · Proficient in reading, writing & speaking both; comfortable communicating with native speakers |
 
 ---
 
