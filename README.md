@@ -18,7 +18,15 @@
 
 ## About Me
 
-I'm **Boyce Cecil** — building at the intersection of AI, 3D, and Robotics. Self-taught through AI tools, open-source communities, and relentless iteration — I think in full cycles: from concept and architecture to shipping and iteration.
+Self-taught through AI tools, open-source communities, and relentless iteration. 
+
+Full cycle oriented: from concept and architecture to shipping and iteration.
+
+Building at the intersection of AI, 3D, and Robotics. 
+
+<div align="center">
+  <img src="intersection.svg" alt="AI · 3D · Robotics" />
+</div>
 
 My primary focus is **AI engineering and agentic systems**: designing AI-driven workflows, building and integrating **MCP** servers, and working with generative models including **Stable Diffusion**. I use **Python** as my main instrument for everything from data pipelines to autonomous agents.
 

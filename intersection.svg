@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 170" width="820" height="170">
+  <defs>
+    <clipPath id="card">
+      <rect width="820" height="170" rx="14"/>
+    </clipPath>
+    <linearGradient id="topBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#1F6FEB"/>
+      <stop offset="50%"  stop-color="#CF222E"/>
+      <stop offset="100%" stop-color="#238636"/>
+    </linearGradient>
+    <linearGradient id="aiGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#79C0FF"/>
+      <stop offset="100%" stop-color="#1F6FEB"/>
+    </linearGradient>
+    <linearGradient id="tdGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFA198"/>
+      <stop offset="100%" stop-color="#CF222E"/>
+    </linearGradient>
+    <linearGradient id="robGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7EE787"/>
+      <stop offset="100%" stop-color="#238636"/>
+    </linearGradient>
+    <filter id="glowAI" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow3D" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowRob" x="-15%" y="-30%" width="130%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <!-- Background -->
+    <rect width="820" height="170" fill="#0d1117"/>
+    <!-- Top accent bar (full-width tri-color gradient) -->
+    <rect width="820" height="4" fill="url(#topBar)"/>
+
+    <!-- Vertical dividers -->
+    <line x1="273" y1="20" x2="273" y2="150" stroke="#21262d" stroke-width="1.5"/>
+    <line x1="546" y1="20" x2="546" y2="150" stroke="#21262d" stroke-width="1.5"/>
+
+    <!-- ── AI ── -->
+    <g opacity="0">
+      <animate id="ai-in"
+               attributeName="opacity" from="0" to="1"
+               dur="0.6s" begin="0.2s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.7;1"
+               dur="2.8s" begin="ai-in.end" repeatCount="indefinite"/>
+      <text x="136" y="82" text-anchor="middle" dominant-baseline="middle"
+            font-family="'Fira Code', 'Courier New', monospace"
+            font-size="64" font-weight="800"
+            fill="url(#aiGrad)" filter="url(#glowAI)">AI</text>
+      <text x="136" y="132" text-anchor="middle"
+            font-family="'Fira Code', 'Courier New', monospace"
+            font-size="10" letter-spacing="5"
+            fill="#58A6FF" opacity="0.55">INTELLIGENCE</text>
+    </g>
+
+    <!-- ── 3D ── -->
+    <g opacity="0">
+      <animate id="td-in"
+               attributeName="opacity" from="0" to="1"
+               dur="0.6s" begin="0.8s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.7;1"
+               dur="2.8s" begin="td-in.end" repeatCount="indefinite"/>
+      <text x="409" y="82" text-anchor="middle" dominant-baseline="middle"
+            font-family="'Fira Code', 'Courier New', monospace"
+            font-size="64" font-weight="800"
+            fill="url(#tdGrad)" filter="url(#glow3D)">3D</text>
+      <text x="409" y="132" text-anchor="middle"
+            font-family="'Fira Code', 'Courier New', monospace"
+            font-size="10" letter-spacing="5"
+            fill="#FFA198" opacity="0.55">DIMENSION</text>
+    </g>
+
+    <!-- ── ROBOTICS ── -->
+    <g opacity="0">
+      <animate id="rob-in"
+               attributeName="opacity" from="0" to="1"
+               dur="0.6s" begin="1.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.7;1"
+               dur="2.8s" begin="rob-in.end" repeatCount="indefinite"/>
+      <text x="683" y="82" text-anchor="middle" dominant-baseline="middle"
+            font-family="'Fira Code', 'Courier New', monospace"
+            font-size="44" font-weight="800"
+            fill="url(#robGrad)" filter="url(#glowRob)">ROBOTICS</text>
+      <text x="683" y="132" text-anchor="middle"
+            font-family="'Fira Code', 'Courier New', monospace"
+            font-size="10" letter-spacing="5"
+            fill="#56D364" opacity="0.55">AUTOMATION</text>
+    </g>
+  </g>
+</svg>
