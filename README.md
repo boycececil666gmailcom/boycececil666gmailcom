@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm **Boyce Cecil** — a game developer and AI practitioner working primarily in **Unity** and **Python**, sculpting game worlds in **Blender**, generating art with **Stable Diffusion**, and building AI-driven workflows with **MCP**. Currently shipping *hellLove* (a Unity game with a JS web client), *Project Wildcard* (Godot), and *HRSIM* (a Unity-based simulation system).
+I'm **Boyce Cecil** — a builder of immersive real-time experiences working primarily in **Unity** and **Python**, sculpting worlds in **Blender**, generating art with **Stable Diffusion**, and building AI-driven workflows with **MCP**. Currently shipping *hellLove* (a Unity real-time project with a JS web client), *Project Wildcard* (Godot), and *HRSIM* (a Unity-based simulation system).
 
 I see the world as a system waiting to be understood — and rebuilt. Technology isn't just a tool; it's the language the future is written in, and I intend to be fluent.
 
