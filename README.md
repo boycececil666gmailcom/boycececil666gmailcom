@@ -2,7 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=400&speed=25&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I'm+Boyce+Cecil+%F0%9F%91%8B" alt="Typing SVG" />
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration.;Full+cycle+oriented%3A+from+concept+and+architecture+to+shipping+and+iteration.;Building+at+the+intersection+of+AI%2C+3D%2C+and+Robotics." alt="Typing SVG" />
+</div>
+
+
 <br/>
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boycececil666gmailcom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-bao-3b7750232/)
@@ -28,13 +34,7 @@ Building at the intersection of AI, 3D, and Robotics.
   <img src="intersection.svg" alt="AI · 3D · Robotics" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=AI;3D;Robotics" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=400&speed=25&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%A4%96+AI%3A+%22AI+is+the+new+electricity.%22+%E2%80%94+Andrew+Ng;%F0%9F%A6%BE+Robotics%3A+%22A+robot+must+protect+its+own+existence.%22+%E2%80%94+Asimov;%F0%9F%8E%AE+Gaming%3A+%22War.+War+never+changes.%22+%E2%80%94+Fallout" alt="Typing SVG" />
-</div>
 
 My primary focus is **AI engineering and agentic systems**: designing AI-driven workflows, building and integrating **MCP** servers, and working with generative models including **Stable Diffusion**. I use **Python** as my main instrument for everything from data pipelines to autonomous agents.
 
