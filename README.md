@@ -68,7 +68,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ---
 
-## Fields That Will Change the World
+## Frontiers I'm Building In
 
 <div align="center">
 
@@ -123,6 +123,10 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 ## Let's Connect
 
 <div align="center">
+
+Open to collaboration, freelance work, or just a good conversation about games, AI, or robotics — reach out anytime.
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boycececil666gmailcom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-bao-3b7750232/)
