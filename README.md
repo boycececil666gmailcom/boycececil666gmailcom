@@ -72,46 +72,6 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ---
 
-## Fields I'm Interested In
-
-<div align="center">
-
-**Game Engines & Realtime**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![Forward Rendering](https://img.shields.io/badge/Forward%20Rendering-8A2BE2?style=flat-square&logoColor=white)
-
-**AI & Robotics**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white)
-
-**3D & Creative**
-
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-
-**Blockchain**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-
-**Web & Tools**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
 <div align="center">
   <sub>Built with curiosity. Updated with intent.</sub>
 </div>
