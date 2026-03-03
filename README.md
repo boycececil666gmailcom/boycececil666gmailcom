@@ -25,7 +25,6 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 <div align="center">
 
 **Tier 1 — Primary Focus**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
@@ -36,7 +35,6 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white)
 
 **Tier 2 — Building Experience**
-
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
@@ -55,14 +53,14 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 | Repo | Stack | Description | Demonstrates |
 |------|-------|-------------|---|
-| [hellLove_unity_c-](https://github.com/boycececil666gmailcom/hellLove_unity_c-) | C# / Unity | Main Unity build of the hellLove game project | Tier 1 · Game Engines |
-| [hellLoveTCB_TCB_js](https://github.com/boycececil666gmailcom/hellLoveTCB_TCB_js) | JavaScript | Web client layer for the hellLove project | Tier 2 · Web |
-| [ProjectWildcard_godot_gdscript](https://github.com/boycececil666gmailcom/ProjectWildcard_godot_gdscript) | Godot / GDScript | Game project built in Godot | Tier 3 · Game Engines |
-| [HRSIM_unity_c](https://github.com/boycececil666gmailcom/HRSIM_unity_c) | C# / Unity | Human resources simulation system in Unity | Tier 1 · Game Engines |
-| [3dWork](https://github.com/boycececil666gmailcom/3dWork) | Python | 3D tooling and scripts | Tier 1 · AI & Robotics |
-| [Project-death](https://github.com/boycececil666gmailcom/Project-death) | HTML | Web-based project | Tier 3 · Web |
-| [MJDC_WXminiProgram_web](https://github.com/boycececil666gmailcom/MJDC_WXminiProgram_web) | JavaScript | WeChat Mini Program | Tier 2 · Web |
-| [Module_temp](https://github.com/boycececil666gmailcom/Module_temp) | C# | C# module / template work | Tier 1 · Game Engines |
+| [hellLove_unity_c-](https://github.com/boycececil666gmailcom/hellLove_unity_c-) | C# / Unity | Main Unity build of the hellLove game project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) |
+| [hellLoveTCB_TCB_js](https://github.com/boycececil666gmailcom/hellLoveTCB_TCB_js) | JavaScript | Web client layer for the hellLove project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [ProjectWildcard_godot_gdscript](https://github.com/boycececil666gmailcom/ProjectWildcard_godot_gdscript) | Godot / GDScript | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) |
+| [HRSIM_unity_c](https://github.com/boycececil666gmailcom/HRSIM_unity_c) | C# / Unity | Human resources simulation system in Unity | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) |
+| [3dWork](https://github.com/boycececil666gmailcom/3dWork) | Python | 3D tooling and scripts | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Project-death](https://github.com/boycececil666gmailcom/Project-death) | HTML | Web-based project | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [MJDC_WXminiProgram_web](https://github.com/boycececil666gmailcom/MJDC_WXminiProgram_web) | JavaScript | WeChat Mini Program | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [Module_temp](https://github.com/boycececil666gmailcom/Module_temp) | C# | C# module / template work | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
 
 ---
 ## Tech I am interested in
