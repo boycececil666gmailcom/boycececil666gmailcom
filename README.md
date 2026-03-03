@@ -79,16 +79,16 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ## Projects
 
-| Repo | Stack | Description | Demonstrates | Demo |
-|------|-------|-------------|---|---|
-| hellLove_unity_c- | C# / Unity | Main Unity build of the hellLove game project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
-| hellLoveTCB_TCB_js | JavaScript | Web client layer for the hellLove project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
-| ProjectWildcard_godot_gdscript | Godot / GDScript | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | 🔗 *coming soon* |
-| HRSIM_unity_c | C# / Unity | Human resources simulation system in Unity | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
-| 3dWork | Python | 3D tooling and scripts | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🔗 *coming soon* |
-| Project-death | Blender / Unreal | Visual project in Blender & Unreal | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | 🔗 *coming soon* |
-| MJDC_WXminiProgram_web | JavaScript | WeChat Mini Program | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
-| Module_temp | C# | C# module / template work | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | 🔗 *coming soon* |
+| Repo | Description | Tech Stack | Demo |
+|------|-------------|------------|------|
+| hellLove_unity_c- | Main Unity build of the hellLove game project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
+| hellLoveTCB_TCB_js | Web client layer for the hellLove project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
+| ProjectWildcard_godot_gdscript | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | 🔗 *coming soon* |
+| HRSIM_unity_c | Human resources simulation system in Unity | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
+| 3dWork | 3D tooling and scripts | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🔗 *coming soon* |
+| Project-death | Visual project in Blender & Unreal | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | 🔗 *coming soon* |
+| MJDC_WXminiProgram_web | WeChat Mini Program | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
+| Module_temp | C# module / template work | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | 🔗 *coming soon* |
 
 ---
 
