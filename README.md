@@ -4,7 +4,15 @@
 
 <br/>
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boycececil666gmailcom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-bao-3b7750232/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boycececil666@gmail.com)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/boycececil666gmailcom?label=Follow&style=for-the-badge&logo=github&color=58A6FF&labelColor=0d1117)](https://github.com/boycececil666gmailcom)
+&nbsp;
+[![Profile views](https://komarev.com/ghpvc/?username=boycececil666gmailcom&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/boycececil666gmailcom)
 
 ---
 
@@ -113,27 +121,6 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 <sub>Enable <strong>"Show private contributions on my profile"</strong> in your <a href="https://github.com/settings/profile">GitHub settings</a> to reflect your full activity.</sub>
 
 </div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-Open to collaboration, freelance work, or just a good conversation about games, AI, or robotics — reach out anytime.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boycececil666gmailcom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-bao-3b7750232/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boycececil666@gmail.com)
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/boycececil666gmailcom?label=Follow&style=for-the-badge&logo=github&color=58A6FF&labelColor=0d1117)](https://github.com/boycececil666gmailcom)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=boycececil666gmailcom&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/boycececil666gmailcom)
-
 </div>
 
 ---
