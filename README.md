@@ -68,7 +68,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ---
 
-## Core Expertise by Fields
+## Fields That Will Change the World
 
 <div align="center">
 
