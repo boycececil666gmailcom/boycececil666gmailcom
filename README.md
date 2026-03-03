@@ -20,11 +20,12 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ---
 
-##  Expertise — *by depth of practice*
+## Core Expertise — *by depth of practice*
 
 <div align="center">
 
 **Tier 1 — Primary Focus**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
@@ -35,6 +36,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white)
 
 **Tier 2 — Building Experience**
+
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
@@ -42,6 +44,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 **Tier 3 — Exploring**
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
@@ -49,6 +52,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 </div>
 
 ---
+
 ## Projects
 
 | Repo | Stack | Description | Demonstrates |
@@ -58,12 +62,13 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 | [ProjectWildcard_godot_gdscript](https://github.com/boycececil666gmailcom/ProjectWildcard_godot_gdscript) | Godot / GDScript | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) |
 | [HRSIM_unity_c](https://github.com/boycececil666gmailcom/HRSIM_unity_c) | C# / Unity | Human resources simulation system in Unity | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) |
 | [3dWork](https://github.com/boycececil666gmailcom/3dWork) | Python | 3D tooling and scripts | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [Project-death](https://github.com/boycececil666gmailcom/Project-death) | HTML | Web-based project | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) |
+| [Project-death](https://github.com/boycececil666gmailcom/Project-death) | Blender Unreal | Web-based project | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) |
 | [MJDC_WXminiProgram_web](https://github.com/boycececil666gmailcom/MJDC_WXminiProgram_web) | JavaScript | WeChat Mini Program | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [Module_temp](https://github.com/boycececil666gmailcom/Module_temp) | C# | C# module / template work | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
 
 ---
-## Tech I am interested in
+
+## Core Expertise by Fields
 
 <div align="center">
 
@@ -103,16 +108,15 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ---
 
-
 ## GitHub Stats
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=boycececil666gmailcom&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-</div>
+<sub>Enable <strong>"Show private contributions on my profile"</strong> in your <a href="https://github.com/settings/profile">GitHub settings</a> to reflect your full activity.</sub>
 
-> *To include private contributions in the streak above, go to your [GitHub profile settings](https://github.com/settings/profile) and enable **"Show private contributions on my profile"**.*
+</div>
 
 ---
 
