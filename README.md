@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration.;Full+cycle+oriented%3A+concept+-%3E+architecture+-%3E+iteration+-%3E+shipping.;Building+at+the+intersection+of+AI%2C+3D%2C+and+Robotics." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Building+at+the+intersection+of+AI%2C+3D%2C+and+Robotics.;Full+cycle+oriented%3A+concept+-%3E+architecture+-%3E+iteration+-%3E+shipping.;Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration." alt="Typing SVG" />
 </div>
 
 
@@ -22,11 +22,11 @@
 
 ## About Me
 
-Self-taught through AI tools, open-source communities, and relentless iteration. 
+Building at the intersection of AI, 3D, and Robotics. 
 
 Full cycle oriented: concept -> architecture -> iteration -> shipping.
 
-Building at the intersection of AI, 3D, and Robotics. 
+Self-taught through AI tools, open-source communities, and relentless iteration. 
 
 <div align="center">
   <img src="intersection.svg" alt="AI · 3D · Robotics" />
@@ -97,7 +97,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 | | |
 |---|---|
 | 🎓 **Education** | Business English · JiangNan University *(QS ~800)* · 2021 – 2025 *(incl. 1 gap year)* |
-| 💼 **Experience** | Software Engineer · Thundersoft · Nagoya, Japan · 2025 – present |
+| 💼 **Experience** | Frontend Software Engineer · Thundersoft · Nagoya, Japan · 2025 – present |
 | 🌐 **Languages** | English — TOEFL 105+ &nbsp;·&nbsp; Japanese — JLPT N1 · Proficient in reading, writing & speaking in both languages; comfortable with communicating with native speakers |
 
 ---
