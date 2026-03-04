@@ -81,15 +81,15 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 | Repo | Description | Tech Stack | Demo |
 |------|-------------|------------|------|
-| [SuperAmazingReadmeForge](https://github.com/boycececil666gmailcom/SuperAmazingReadmeForge) | !!TOTAL FREE!!Desktop app to visually build & export a GitHub profile README | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=flat-square&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom) |
-| hellLove_unity_c- | Main Unity build of the hellLove game project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
-| hellLoveTCB_TCB_js | Web client layer for the hellLove project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
-| ProjectWildcard_godot_gdscript | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | 🔗 *coming soon* |
-| HRSIM_unity_c | Human resources simulation system in Unity | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
-| 3dWork | 3D tooling and scripts | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🔗 *coming soon* |
-| Project-death | Visual project in Blender & Unreal | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | 🔗 *coming soon* |
-| MJDC_WXminiProgram_web | WeChat Mini Program | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
-| Module_temp | C# module / template work | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | 🔗 *coming soon* |
+| 🔨 [SuperAmazingReadmeForge](https://github.com/boycececil666gmailcom/SuperAmazingReadmeForge) | !!TOTAL FREE!!Desktop app to visually build & export a GitHub profile README | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=flat-square&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom) |
+| 🎮 hellLove_unity_c- | Main Unity build of the hellLove game project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
+| 🌐 hellLoveTCB_TCB_js | Web client layer for the hellLove project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
+| 🃏 ProjectWildcard_godot_gdscript | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | 🔗 *coming soon* |
+| 🤖 HRSIM_unity_c | Human resources simulation system in Unity | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
+| 🧊 3dWork | 3D tooling and scripts | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🔗 *coming soon* |
+| 💀 Project-death | Visual project in Blender & Unreal | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | 🔗 *coming soon* |
+| 💬 MJDC_WXminiProgram_web | WeChat Mini Program | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
+| 📦 Module_temp | C# module / template work | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | 🔗 *coming soon* |
 
 ---
 
