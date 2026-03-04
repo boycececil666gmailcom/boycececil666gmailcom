@@ -81,7 +81,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 | Repo | Description | Tech Stack | Demo |
 |------|-------------|------------|------|
-| [readme-profile-generator](https://github.com/boycececil666gmailcom/readme-profile-generator) | Desktop app to visually build & export a GitHub profile README | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=flat-square&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom) |
+| [SuperAmazingReadmeForge](https://github.com/boycececil666gmailcom/SuperAmazingReadmeForge) | Desktop app to visually build & export a GitHub profile README | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=flat-square&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/SuperAmazingReadmeForge) |
 | hellLove_unity_c- | Main Unity build of the hellLove game project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
 | hellLoveTCB_TCB_js | Web client layer for the hellLove project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
 | ProjectWildcard_godot_gdscript | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | 🔗 *coming soon* |
