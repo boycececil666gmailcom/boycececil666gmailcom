@@ -41,11 +41,12 @@ Every article file **must** have a top-level heading (`# Article Title`) — tha
 flowchart TD
     A([User publishes article]) --> B[Place .md file in correct tier/topic folder]
     B --> C[Ensure file starts with '# Article Title']
-    C --> D[Run scripts/update_readme.py]
+    C --> D[Run update_readme.py]
     D --> E[README.md tutorials block regenerated]
-    E --> F{Commit & push?}
-    F -- Yes --> G[git add . && git commit -m 'docs: update tutorials' && git push]
-    F -- No --> H([Done — local only])
+    E --> F[git add README.md tutorials/]
+    F --> G["git commit -m 'docs: ...'"]
+    G --> H[git push]
+    H --> I([Done — live on GitHub profile])
 ```
 
 ### Step-by-step
@@ -62,7 +63,7 @@ flowchart TD
    ```powershell
    python .copilot/skills/update-readme/scripts/update_readme.py
    ```
-4. **Commit and push** (optional — do this automatically when the user asks):
+4. **Commit and push** — always do this after updating README.md:
    ```powershell
    git add README.md tutorials/
    git commit -m "docs: add [topic] tutorial — [title]"

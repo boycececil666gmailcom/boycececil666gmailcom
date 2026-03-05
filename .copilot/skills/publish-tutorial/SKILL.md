@@ -42,7 +42,10 @@ flowchart TD
     A([User provides title + exact content]) --> B[Run publish_tutorial.py]
     B --> C[File created in tutorials/tierN/topic/]
     C --> D[update_readme.py runs automatically]
-    D --> E([README.md updated])
+    D --> E[git add README.md tutorials/]
+    E --> F["git commit -m 'docs: add [topic] tutorial'"]
+    F --> G[git push]
+    G --> H([Live on GitHub profile])
 ```
 
 **Run:**
@@ -78,7 +81,10 @@ flowchart TD
     C -- Needs work --> B
     D --> E[File created in tutorials/tierN/topic/]
     E --> F[update_readme.py runs automatically]
-    F --> G([README.md updated])
+    F --> G[git add README.md tutorials/]
+    G --> H["git commit -m 'docs: add [topic] tutorial'"]
+    H --> I[git push]
+    I --> J([Live on GitHub profile])
 ```
 
 ### Rewrite Rules
@@ -95,7 +101,7 @@ When rewriting reference content, follow these principles:
 
 ### After rewriting
 
-Save the rewritten content to a temporary string, then call the script with `--content`:
+Save the rewritten content to a temporary string, call the script with `--content`, then push:
 
 ```powershell
 python .copilot/skills/publish-tutorial/scripts/publish_tutorial.py `
@@ -103,6 +109,10 @@ python .copilot/skills/publish-tutorial/scripts/publish_tutorial.py `
   --tier tier1 `
   --topic blender `
   --content "<rewritten markdown>"
+
+git add README.md tutorials/
+git commit -m "docs: add [topic] tutorial — [title]"
+git push
 ```
 
 ---
