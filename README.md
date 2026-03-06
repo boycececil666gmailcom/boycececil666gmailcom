@@ -85,6 +85,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 **Unity**
 
 - [Unity Atoms — ScriptableObject Architecture for Scalable Unity Projects](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-atoms-scriptable-object-architecture.md)
+- [Unity IL2CPP Build Structure — What Every File and Folder Does](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-il2cpp-build-structure-what-every-file-and-folder-does.md)
 
 <!-- TUTORIALS:END -->
 
