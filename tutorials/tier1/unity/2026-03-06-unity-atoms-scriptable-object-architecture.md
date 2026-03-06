@@ -1,3 +1,7 @@
+---
+author: TyrionBao
+---
+
 # Unity Atoms — ScriptableObject Architecture for Scalable Unity Projects
 
 Unity Atoms is an open-source package by **Adam Ramberg** that gives you a

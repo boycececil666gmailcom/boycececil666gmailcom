@@ -1,3 +1,7 @@
+---
+author: TyrionBao
+---
+
 # Unity IL2CPP Build Structure — What Every File and Folder Does
 
 When you build a Unity project for Windows using the **IL2CPP scripting backend**,

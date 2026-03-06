@@ -1,3 +1,7 @@
+---
+author: TyrionBao
+---
+
 # Understanding the Unity Mono Build Structure
 
 When you build a Unity project for Windows using the **Mono scripting backend**, the output is a self-contained folder with a well-defined structure. This article breaks down every part of that structure and explains what role each file and folder plays at runtime.
