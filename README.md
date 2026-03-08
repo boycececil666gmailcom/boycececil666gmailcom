@@ -80,6 +80,10 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ### Tier 1 — Primary Focus
 
+**MCP**
+
+- [How MCP Servers Work: stdio, JSON-RPC, and Process Communication](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/mcp/2026-03-08-how-mcp-servers-work-stdio-json-rpc-and-process-communication.md)
+
 **Unity**
 
 - [Understanding the Unity Mono Build Structure](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-understanding-the-unity-mono-build-structure.md)
