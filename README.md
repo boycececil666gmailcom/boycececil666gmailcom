@@ -104,7 +104,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 | 💀 Project-death | Visual project in Blender & Unreal | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | 🔗 *coming soon* |
 | 💬 MJDC_WXminiProgram_web | WeChat Mini Program | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
 | 📦 Module_temp | C# module / template work | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | 🔗 *coming soon* |
-| 🔒 [VaultSync](https://github.com/boycececil666gmailcom/VaultSync) | AES-256-GCM file watcher that encrypts your Safe folder and syncs encrypted copies to Google Drive | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | 🔗 *coming soon* |
+| 🔒 [VaultSync](https://github.com/boycececil666gmailcom/VaultSync) | AES-256-GCM file watcher that encrypts your Safe folder and syncs encrypted copies to Google Drive | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/VaultSync) |
 
 ---
 
