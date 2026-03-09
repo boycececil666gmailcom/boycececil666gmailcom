@@ -109,6 +109,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 | 💬 MJDC_WXminiProgram_web | WeChat Mini Program | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
 | 📦 Module_temp | C# module / template work | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | 🔗 *coming soon* |
 | 🔒 [VaultSync](https://github.com/boycececil666gmailcom/VaultSync) | AES-256-GCM file watcher that encrypts your Safe folder and syncs encrypted copies to Google Drive | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/VaultSync) |
+| 🔨 [daemon-git](https://github.com/boycececil666gmailcom/daemon-git) | CLI daemon that auto-clones all GitHub repos locally and syncs them on a schedule | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/daemon-git) |
 
 ---
 
