@@ -97,19 +97,26 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ## Projects
 
+### Tier 1 — Primary Focus
+
 | Repo | Description | Tech Stack | Demo |
 |------|-------------|------------|------|
 | 🔨 [t1-python-super-amazing-readme-forge](https://github.com/boycececil666gmailcom/t1-python-super-amazing-readme-forge) | !!TOTAL FREE!!Desktop app to visually build & export a GitHub profile README | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=flat-square&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-python-super-amazing-readme-forge) |
+| 🔨 [t1-python-daemon-git](https://github.com/boycececil666gmailcom/t1-python-daemon-git) | CLI daemon that auto-clones all GitHub repos locally and syncs them on a schedule | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-python-daemon-git) |
 | 🎮 [t1-unity-hell-love](https://github.com/boycececil666gmailcom/t1-unity-hell-love) | Main Unity build of the hellLove game project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
-| 🌐 [t2-js-hell-love-tcb](https://github.com/boycececil666gmailcom/t2-js-hell-love-tcb) | Web client layer for the hellLove project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
-| 🃏 [t2-godot-project-wildcard](https://github.com/boycececil666gmailcom/t2-godot-project-wildcard) | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | [🔗 Demo](https://boycececil.itch.io/the-wildcard) |
 | 🤖 [t1-unity-hrsim](https://github.com/boycececil666gmailcom/t1-unity-hrsim) | Human resources simulation system in Unity | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
+| 🔒 [t1-csharp-vault-sync](https://github.com/boycececil666gmailcom/t1-csharp-vault-sync) | AES-256-GCM file watcher that encrypts your Safe folder and syncs encrypted copies to Google Drive | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-csharp-vault-sync) |
+| 📦 [t1-csharp-module-temp](https://github.com/boycececil666gmailcom/t1-csharp-module-temp) | C# module / template work | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | 🔗 *coming soon* |
 | 🧊 [t1-blender-3d-work](https://github.com/boycececil666gmailcom/t1-blender-3d-work) | 3D tooling and scripts | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🔗 *coming soon* |
 | 💀 [t1-blender-project-death](https://github.com/boycececil666gmailcom/t1-blender-project-death) | Visual project in Blender & Unreal | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | 🔗 *coming soon* |
+
+### Tier 2 — Building Experience
+
+| Repo | Description | Tech Stack | Demo |
+|------|-------------|------------|------|
+| 🃏 [t2-godot-project-wildcard](https://github.com/boycececil666gmailcom/t2-godot-project-wildcard) | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | [🔗 Demo](https://boycececil.itch.io/the-wildcard) |
+| 🌐 [t2-js-hell-love-tcb](https://github.com/boycececil666gmailcom/t2-js-hell-love-tcb) | Web client layer for the hellLove project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
 | 💬 [t2-js-mjdc](https://github.com/boycececil666gmailcom/t2-js-mjdc) | WeChat Mini Program | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
-| 📦 [t1-csharp-module-temp](https://github.com/boycececil666gmailcom/t1-csharp-module-temp) | C# module / template work | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | 🔗 *coming soon* |
-| 🔒 [t1-csharp-vault-sync](https://github.com/boycececil666gmailcom/t1-csharp-vault-sync) | AES-256-GCM file watcher that encrypts your Safe folder and syncs encrypted copies to Google Drive | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-csharp-vault-sync) |
-| 🔨 [t1-python-daemon-git](https://github.com/boycececil666gmailcom/t1-python-daemon-git) | CLI daemon that auto-clones all GitHub repos locally and syncs them on a schedule | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-python-daemon-git) |
 
 ---
 
