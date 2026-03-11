@@ -98,6 +98,10 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 - [Docker Mental Model — Reproducible Environments, Image Layers, and the Dev-to-Ship Loop](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/docker/2026-03-11-docker-mental-model-reproducible-environments-image-layers-dev-to-ship.md)
 
+**ROS2**
+
+- [ROS2 Learning Foundations: The Seven Pillars Before Your First Node](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/ros2/2026-03-11-ros2-learning-foundations-seven-pillars-before-your-first-node.md)
+
 <!-- TUTORIALS:END -->
 
 ---
