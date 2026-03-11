@@ -65,6 +65,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Tier 3 — Exploring**
@@ -90,6 +91,12 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 - [Unity Atoms — ScriptableObject Architecture for Scalable Unity Projects](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-atoms-scriptable-object-architecture.md)
 - [Unity IL2CPP Build Structure — What Every File and Folder Does](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-il2cpp-build-structure-what-every-file-and-folder-does.md)
 - [Unity StreamingAssets vs the Data Folder Explained](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-streamingassets-vs-the-data-folder-explained.md)
+
+### Tier 2 — Building Experience
+
+**Docker**
+
+- [Docker Mental Model — Reproducible Environments, Image Layers, and the Dev-to-Ship Loop](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/docker/2026-03-11-docker-mental-model-reproducible-environments-image-layers-dev-to-ship.md)
 
 <!-- TUTORIALS:END -->
 
@@ -118,6 +125,7 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 |------|-------------|------------|------|
 | 🌐 [t2-js-hell-love-tcb](https://github.com/boycececil666gmailcom/t2-js-hell-love-tcb) | Web client layer for the hellLove project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
 | 💬 [t2-js-mjdc](https://github.com/boycececil666gmailcom/t2-js-mjdc) | WeChat Mini Program | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
+| 🐳 [t2-ros-test](https://github.com/boycececil666gmailcom/t2-ros-test) | ROS 2 Humble development environment via Docker — reproducible robotics workspace with volume-mounted source | ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t2-ros-test) |
 
 ---
 
