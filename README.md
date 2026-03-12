@@ -81,6 +81,10 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ### Tier 1 — Primary Focus
 
+**Python**
+
+- [Unicode, UTF-8, and Text Rendering: From Bytes to Pixels](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/python/2026-03-12-unicode-utf8-and-text-rendering-from-bytes-to-pixels.md)
+
 **MCP**
 
 - [How MCP Servers Work: stdio, JSON-RPC, and Process Communication](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/mcp/2026-03-08-how-mcp-servers-work-stdio-json-rpc-and-process-communication.md)
