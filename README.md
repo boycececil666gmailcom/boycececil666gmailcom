@@ -89,6 +89,10 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 - [How MCP Servers Work: stdio, JSON-RPC, and Process Communication](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/mcp/2026-03-08-how-mcp-servers-work-stdio-json-rpc-and-process-communication.md)
 
+**Stable Diffusion**
+
+- [Stable Diffusion 3.5 and FLUX.1 LoRA Guide](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/stable-diffusion/2026-03-13-stable-diffusion-3-5-and-flux-1-lora-guide.md)
+
 **Unity**
 
 - [Understanding the Unity Mono Build Structure](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-understanding-the-unity-mono-build-structure.md)
