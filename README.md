@@ -48,35 +48,35 @@ I see the world as a system waiting to be understood — and rebuilt. Technology
 
 ### Tier 1 — Primary Focus
 
-| Technology | Achieved (What) | Backed By (Scale) | Came From (Origin) |
-|------------|-----------------|-------------------|--------------------|
-| **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Architecting autonomous agents and automation scripts | 3 shipped CLI/AI projects | Developing Daemon Git, Readme Forge, and HuggingFace pipelines |
-| **C#** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | Complex gameplay logic and secure file pipelines | 3 simulation/game projects and 1 AES-256 vault | Building hellLove, HRSIM, and Vault Sync |
-| **Unity** ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | Real-time 3D simulation and architecture | 2 large-scale engine architectures | Implementing ScriptableObject foundations and modular builds for hellLove and HRSIM |
-| **Blender** ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) | Modeling, texturing, and rendering 3D assets | 2 visual project pipelines | Creating assets for Project Death and procedural generation workflows |
-| **Photoshop** ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | Crafting game textures, UI assets, and visual polish | UI/UX asset pipelines | Iterative visual design for web and game clients |
-| **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Seamless version control and automated daemon syncs | 20+ tracked repositories | Building the Python Daemon Git CLI system |
-| **MCP** ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white) | Bridging LLMs with local APIs | 1 full-stack server implementation | Building the MCP TodoList with Hono and Prisma |
-| **Stable Diffusion** ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white) | Generating prompt-driven visual assets and LoRA deployment | 1 generative image pipeline | Developing local HuggingFace transformer integrations |
-| **Godot** ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | Rapid game prototyping and GDScript implementation | 1 shipped game demo | Developing Project Wildcard |
+| Technology | A (Achievement) | B (Backed By) | C (Came From) |
+|------------|-----------------|---------------|---------------|
+| **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Architecting autonomous agents, desktop UIs, and automation scripts. | 3 shipped CLI/AI desktop projects (Readme Forge, Daemon Git CLI, HuggingFace pipeline). | Developing the visually built README forge app, automated local GitHub daemon syncs, and integrating local LLM/SD generation. |
+| **C#** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | Complex gameplay logic, simulation systems, and secure file pipelines. | 2 simulation/game projects (hellLove, HRSIM) and 1 AES-256 cloud sync vault. | Building Unity game architectures and writing a .NET 9 file watcher that encrypts local folders and pushes to Google Drive. |
+| **Unity** ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | Real-time 3D simulation and ScriptableObject codebase architectures. | 2 large-scale engine structures (hellLove game & HRSIM). | Implementing modular data flow and engine architectures for a human resources simulation and the hellLove game project. |
+| **Blender** ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) | Modeling, texturing, Python scripting, and rendering 3D assets. | 2 visual project pipelines (Project Death, Custom 3D tools). | Creating procedural workflows, material shading, Geometry Nodes, and assets for Unreal / game client use. |
+| **Photoshop** ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | Crafting game textures, UI assets, and aesthetic visual polish. | Multiple UI/UX asset pipelines across games. | Iterative visual design, texture painting, and editing sprites for web and Unity game clients. |
+| **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Seamless version control and automated cross-repo daemon syncing. | 20+ actively tracked/synced repositories. | Building the Python Daemon Git CLI system to batch synchronize and manage repos locally. |
+| **MCP** ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white) | Bridging LLMs with local APIs, databases, and external logic. | 1 full-stack MCP server implementation. | Building the MCP TodoList using a Hono REST API, Prisma ORM, Next.js client, and Anthropic context injection. |
+| **Stable Diffusion** ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white) | Generating prompt-driven visual assets and deploying LoRA pipelines. | 1 generative image pipeline and integration scripts. | Developing local HuggingFace transformer inferences to automate visual reference creation. |
+| **Godot** ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | Rapid game prototyping and clean GDScript implementation. | 1 shipped gameplay demo (The Wildcard). | Developing Project Wildcard leveraging Godot's node-based UI and deployment systems. |
 
 ### Tier 2 — Building Experience
 
-| Technology | Achieved (What) | Backed By (Scale) | Came From (Origin) |
-|------------|-----------------|-------------------|--------------------|
-| **Unreal Engine** ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | Constructing high-fidelity environments | 1 visual sandbox | Experimenting with Project Death rendering pipelines |
-| **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Developing web clients and Mini Programs | 2 functional frontend repositories | Building the hellLove client layer and WeChat MJDC app |
-| **ROS 2** ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) | Simulating autonomous robotic nodes | 1 fully containerized DevEnv | Bootstrapping the t2-ros-test environment |
-| **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Designing reproducible environments | 1 containerized ROS 2 workspace | Isolating dependencies for robotics simulation |
-| **HTML** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Structuring responsive layouts and UI components | Daily professional frontend engineering | My role at Thundersoft and personal web development |
+| Technology | A (Achievement) | B (Backed By) | C (Came From) |
+|------------|-----------------|---------------|---------------|
+| **Unreal Engine** ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | Constructing high-fidelity, real-time 3D environments. | 1 primary visual simulation sandbox. | Experimenting with high-end rendering pipelines and staging the 'Project Death' 3D concept. |
+| **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Developing robust web client layers and WeChat Mini Programs. | 2 functional frontend repository applications. | Building the internet client for the hellLove system and deploying the MJDC WeChat mini program. |
+| **ROS 2** ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) | Simulating autonomous robotic nodes and system topographies. | 1 fully containerized DevEnv setup. | Bootstrapping the reproducible ROS 2 Humble environment and analyzing hardware control flow frameworks. |
+| **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Designing heavily reproducible, volume-mounted environments. | 1 full containerized robotics workspace. | Isolating ROS 2 dependencies and packaging reliable execution containers for simulation scaling. |
+| **HTML / CSS** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Structuring responsive layouts, scalable UI frames, and DOM logic. | Daily professional frontend engineering. | My role as a Frontend Engineer at Thundersoft and personal continuous web iteration. |
 
 ### Tier 3 — Exploring
 
-| Technology | Exploring (What) | Backed By (Activity) | Came From (Interest) |
-|------------|------------------|----------------------|----------------------|
-| **Ethereum** ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | Web3 protocols and smart contract foundations | Continuous research | Investigating decentralized architectures |
-| **Raspberry Pi** ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) | Embedded Linux systems and GPIO scripting | Hardware prototyping | Bridging software intelligence to physical boards |
-| **STM32** ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) | Low-level MCU programming | Embedded hardware research | Building foundations for autonomous robotics control |
+| Technology | A (Achievement / Exploring) | B (Backed By) | C (Came From) |
+|------------|-----------------------------|---------------|---------------|
+| **Ethereum** ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | Web3 protocols and smart contract foundations. | Continuous deep-dive research. | Investigating decentralized network architectures and blockchain paradigms. |
+| **Raspberry Pi** ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) | Embedded Linux systems and headless server setup. | Hardware prototyping. | Bridging software intelligence to physical boards for localized computation tasks. |
+| **STM32** ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) | Low-level MCU programming / GPIO control. | Embedded hardware research. | Designing bare-metal foundations necessary for fine-tuned autonomous robot motor functions. |
 
 <!-- TUTORIALS:START -->
 ## Self-published Tutorials & Passages — *by expertise tier*
