@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=New+era+with+AI%3A+not+a+coder+%E2%80%94+a+problem+solver.;Building+at+the+intersection+of+AI%2C+Graphics+Programming%2C+and+Robotics.;Full+cycle%3A+concept+%E2%86%92+architecture+%E2%86%92+iteration+%E2%86%92+shipping.;Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=New+era+with+AI%3A+not+a+coder+%E2%80%94+a+problem+solver.;Building+at+the+intersection+of+AI%2C+Graphics+Programming%2C+and+Robotics.;Full+cycle%3A+concept+%E2%86%92+architecture+%E2%86%92+iteration+%E2%86%92+shipping.;Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration.;Don%27t+optimize+for+being+right.+Optimize+for+being+understood." alt="Typing SVG" />
 </div>
 
 
@@ -24,7 +24,7 @@
 
 > **AI era** — not a coder, a problem solver.
 > **Engineering** — simplify everything; always ask the essence.
-> **Communication** — information transfers, but communication lands.
+> **Communication** — don't optimize for being right; optimize for being understood.
 
 Building at the intersection of **AI**, **Graphics Programming**, and **Robotics**.
 Full cycle: `concept → architecture → iteration → shipping`
