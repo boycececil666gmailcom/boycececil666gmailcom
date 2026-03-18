@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Building+at+the+intersection+of+AI%2C+Graphics+Programming%2C+and+Robotics.;Full+cycle+oriented%3A+concept+-%3E+architecture+-%3E+iteration+-%3E+shipping.;Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=New+era+with+AI%3A+not+a+coder+%E2%80%94+a+problem+solver.;Building+at+the+intersection+of+AI%2C+Graphics+Programming%2C+and+Robotics.;Full+cycle%3A+concept+%E2%86%92+architecture+%E2%86%92+iteration+%E2%86%92+shipping.;Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration." alt="Typing SVG" />
 </div>
 
 
@@ -22,11 +22,9 @@
 
 ## About Me
 
-Building at the intersection of AI, Graphics Programming, and Robotics. 
+In the new era of AI, the question isn't *what can you code* — it's *what problem can you solve*.
 
-Full cycle oriented: concept -> architecture -> iteration -> shipping.
-
-Self-taught through AI tools, open-source communities, and relentless iteration. 
+Building at the intersection of AI, Graphics Programming, and Robotics. Full cycle: concept → architecture → iteration → shipping. Self-taught through AI tools, open-source communities, and relentless iteration.
 
 <div align="center">
   <img src="intersection.svg" alt="AI · Graphics Programming · Robotics" />
@@ -40,7 +38,7 @@ In **Graphics Programming and real-time environments**, I work across **Unity**,
 
 In **Robotics**, I work with **ROS 2** for autonomous systems and low-level hardware using **STM32** and **Raspberry Pi** — bridging software intelligence with physical machines.
 
-I see the world as a system waiting to be understood — and rebuilt. Technology isn't just a tool; it's the language the future is written in, and I intend to be fluent.
+AI didn't make me a better coder — it made me a better problem solver. The bottleneck is no longer syntax; it's clarity of thought, system design, and knowing what actually matters. I see the world as a system waiting to be understood and rebuilt, and I intend to be the one rebuilding it.
 
 ---
 
