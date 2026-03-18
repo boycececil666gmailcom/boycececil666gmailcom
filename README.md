@@ -1,10 +1,10 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=New+era+with+AI%3A+not+a+coder+%E2%80%94+a+problem+solver.;Building+at+the+intersection+of+AI%2C+Graphics+Programming%2C+and+Robotics.;Full+cycle%3A+concept+%E2%86%92+architecture+%E2%86%92+iteration+%E2%86%92+shipping.;Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration.;Don%27t+optimize+for+being+right.+Optimize+for+being+understood." alt="Typing SVG" />
-</div>
+
+
 
 <br/>
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boycececil666gmailcom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-bao-3b7750232/)
@@ -16,33 +16,24 @@
 &nbsp;
 [![Profile views](https://komarev.com/ghpvc/?username=boycececil666gmailcom&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/boycececil666gmailcom)
 
-</div>
-
 ---
+
+
 
 ## About Me
 
 > **AI era** — not a coder, a problem solver.
 > **Engineering** — simplify everything; always ask the essence.
 > **Communication** — don't optimize for being right; optimize for being understood.
-
 Building at the intersection of **AI Engineering**, **Graphics Programming**, and **Communication**.
 Full cycle: `concept → architecture → iteration → shipping`
 Self-taught through AI tools, open-source communities, and relentless iteration.
 
-<div align="center">
-  <img src="intersection.svg" alt="AI · Graphics Programming · Robotics" />
-</div>
-
-My primary focus is **AI engineering and agentic systems**: designing AI-driven workflows, building and integrating **MCP** servers, and working with generative models including **Stable Diffusion**. I use **Python** as my main instrument for everything from data pipelines to autonomous agents.
-
-In **Graphics Programming and real-time environments**, I work across **Unity**, **Unreal Engine**, and **Blender** — from gameplay systems in C# to visual pipelines and simulation. Currently shipping *hellLove* (Unity + JS web client), *Project Wildcard* (Godot), and *HRSIM* (a Unity-based simulation system).
-
-In **Robotics**, I work with **ROS 2** for autonomous systems and low-level hardware using **STM32** and **Raspberry Pi** — bridging software intelligence with physical machines.
-
-AI didn't make me a better coder — it made me a better problem solver. The bottleneck is no longer syntax; it's clarity of thought, system design, and knowing what actually matters. I see the world as a system waiting to be understood and rebuilt, and I intend to be the one rebuilding it.
-
 ---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=New+era+with+AI%3A+not+a+coder+%E2%80%94+a+problem+solver.;Building+at+the+intersection+of+AI%2C+Graphics+Programming%2C+and+Robotics.;Full+cycle%3A+concept+%E2%86%92+architecture+%E2%86%92+iteration+%E2%86%92+shipping.;Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration.;Don%27t+optimize+for+being+right.+Optimize+for+being+understood." alt="Typing SVG" />
+</div>
 
 ## Core Expertise — *by depth of practice*
 
@@ -60,7 +51,7 @@ AI didn't make me a better coder — it made me a better problem solver. The bot
 | **MCP** ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white) | Bridging LLMs with local APIs, databases, and logic. | 1 full-stack MCP server · [mcp-todolist](https://github.com/boycececil666gmailcom/t1-mcp-todolist) | Fascinated by giving LLMs real agency beyond chat. Learning MCP to connect AI to live systems — databases, APIs, local tools — so agents can actually act, not just respond. |
 | **Stable Diffusion** ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white) | Prompt-driven visual assets and LoRA pipelines. | 1 generative image pipeline · [huggingface](https://github.com/boycececil666gmailcom/t1-python-huggingface-transformer) | Wanted AI-generated visuals as a native part of my workflow. Learning to run local inference and fine-tune LoRA models so I can generate reference assets on demand without relying on cloud APIs. |
 | **Godot** ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | Rapid game prototyping, clean GDScript implementation. | 1 shipped gameplay demo · [project-wildcard](https://github.com/boycececil666gmailcom/t2-godot-project-wildcard) | Explored as a lighter alternative to Unity for fast prototyping. Its open-source nature and clean node architecture made it worth learning — I want flexibility across engines, not just one. |
-| **Communication** | Clear expression across CN / EN / JP contexts — written, spoken, and async. | Daily at Thundersoft (JP), open-source collaboration, self-publishing. | Motto: *don't optimize for being right; optimize for being understood.* Navigating three languages and cultures made this instinct, not a technique. |
+| **Communication** | Clear expression across CN / EN / JP contexts — written, spoken, and async. | Daily at Thundersoft (JP), open-source collaboration, self-publishing. | Motto: *focus on emotion.* Technical precision only lands when the person across from you feels heard first. Navigating three languages and cultures made this instinct, not a technique. |
 | **Engineering Thinking** | Cutting through complexity to the core constraint of any problem. | Every project designed and built from scratch. | Motto: *simplify everything — always ask the essence.* The best solution is almost always the simplest one that addresses the real constraint, not the obvious one. |
 
 ### Tier 2 — Building Experience
@@ -111,7 +102,7 @@ AI didn't make me a better coder — it made me a better problem solver. The bot
 
 - [Docker Mental Model — Reproducible Environments, Image Layers, and the Dev-to-Ship Loop](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/docker/2026-03-11-docker-mental-model-reproducible-environments-image-layers-dev-to-ship.md)
 
-**ROS 2**
+**ROS2**
 
 - [ROS2 Learning Foundations: The Seven Pillars Before Your First Node](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/ros2/2026-03-11-ros2-learning-foundations-seven-pillars-before-your-first-node.md)
 
@@ -125,9 +116,9 @@ AI didn't make me a better coder — it made me a better problem solver. The bot
 
 | Repo | Description | Tech Stack | Demo |
 |------|-------------|------------|------|
-| 🔨 [t1-python-super-amazing-readme-forge](https://github.com/boycececil666gmailcom/t1-python-super-amazing-readme-forge) | Desktop app to visually build & export a GitHub profile README — totally free | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=flat-square&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-python-super-amazing-readme-forge) |
+| 🔨 [t1-python-super-amazing-readme-forge](https://github.com/boycececil666gmailcom/t1-python-super-amazing-readme-forge) | !!TOTAL FREE!!Desktop app to visually build & export a GitHub profile README | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=flat-square&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-python-super-amazing-readme-forge) |
 | 🔨 [t1-python-daemon-git](https://github.com/boycececil666gmailcom/t1-python-daemon-git) | CLI daemon that auto-clones all GitHub repos locally and syncs them on a schedule | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-python-daemon-git) |
-| 👁 [t1-argus](https://github.com/boycececil666gmailcom/t1-argus) | Always-on daemon that records active app + window time every 5s and generates daily/weekly behavior reports | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-argus) |
+| 👁 [t1-argus](https://github.com/boycececil666gmailcom/t1-argus) | Always-on daemon that records active app + window time every 5s and generates daily/weekly behavior reports to understand yourself | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Rich](https://img.shields.io/badge/Rich-000000?style=flat-square&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-argus) |
 | 🎮 [t1-unity-hell-love](https://github.com/boycececil666gmailcom/t1-unity-hell-love) | Main Unity build of the hellLove game project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
 | 🤖 [t1-unity-hrsim](https://github.com/boycececil666gmailcom/t1-unity-hrsim) | Human resources simulation system in Unity | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
 | 🔒 [t1-csharp-vault-sync](https://github.com/boycececil666gmailcom/t1-csharp-vault-sync) | AES-256-GCM file watcher that encrypts your Safe folder and syncs encrypted copies to Google Drive | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-csharp-vault-sync) |
