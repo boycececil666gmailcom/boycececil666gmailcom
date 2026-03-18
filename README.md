@@ -25,9 +25,6 @@
 > **AI era** — not a coder, a problem solver.
 > **Engineering** — simplify everything; always ask the essence.
 > **Communication** — don't optimize for being right; optimize for being understood.
-Building at the intersection of **AI Engineering**, **Graphics Programming**, and **Communication**.
-Full cycle: `concept → architecture → iteration → shipping`
-Self-taught through AI tools, open-source communities, and relentless iteration.
 
 ---
 
