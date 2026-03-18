@@ -1,10 +1,8 @@
 <div align="center">
 
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=New+era+with+AI%3A+not+a+coder+%E2%80%94+a+problem+solver.;Building+at+the+intersection+of+AI%2C+Graphics+Programming%2C+and+Robotics.;Full+cycle%3A+concept+%E2%86%92+architecture+%E2%86%92+iteration+%E2%86%92+shipping.;Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration.;Don%27t+optimize+for+being+right.+Optimize+for+being+understood." alt="Typing SVG" />
 
 <br/>
-
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boycececil666gmailcom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-bao-3b7750232/)
@@ -16,21 +14,17 @@
 &nbsp;
 [![Profile views](https://komarev.com/ghpvc/?username=boycececil666gmailcom&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/boycececil666gmailcom)
 
+</div>
+
 ---
-
-
 
 ## About Me
 
 > **AI era** — not a coder, a problem solver.
+>
 > **Engineering** — simplify everything; always ask the essence.
+>
 > **Communication** — don't optimize for being right; optimize for being understood.
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=New+era+with+AI%3A+not+a+coder+%E2%80%94+a+problem+solver.;Building+at+the+intersection+of+AI%2C+Graphics+Programming%2C+and+Robotics.;Full+cycle%3A+concept+%E2%86%92+architecture+%E2%86%92+iteration+%E2%86%92+shipping.;Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration.;Don%27t+optimize+for+being+right.+Optimize+for+being+understood." alt="Typing SVG" />
-</div>
 
 ## Core Expertise — *by depth of practice*
 
