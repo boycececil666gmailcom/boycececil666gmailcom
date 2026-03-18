@@ -22,24 +22,17 @@
 
 ## About Me
 
-In the new era of AI, the question isn't *what can you code* — it's *what problem can you solve*.
+> **AI era** — not a coder, a problem solver.
+> **Engineering** — simplify everything; always ask the essence.
+> **Communication** — information transfers, but communication lands.
 
-Building at the intersection of AI, Graphics Programming, and Robotics. Full cycle: concept → architecture → iteration → shipping. Self-taught through AI tools, open-source communities, and relentless iteration.
+Building at the intersection of **AI**, **Graphics Programming**, and **Robotics**.
+Full cycle: `concept → architecture → iteration → shipping`
+Self-taught through AI tools, open-source communities, and relentless iteration.
 
 <div align="center">
   <img src="intersection.svg" alt="AI · Graphics Programming · Robotics" />
 </div>
-
-
-
-My primary focus is **AI engineering and agentic systems**: designing AI-driven workflows, building and integrating **MCP** servers, and working with generative models including **Stable Diffusion**. I use **Python** as my main instrument for everything from data pipelines to autonomous agents.
-
-In **Graphics Programming and real-time environments**, I work across **Unity**, **Unreal Engine**, and **Blender** — from gameplay systems in C# to visual pipelines and simulation. Currently shipping *hellLove* (Unity + JS web client), *Project Wildcard* (Godot), and *HRSIM* (a Unity-based simulation system).
-
-In **Robotics**, I work with **ROS 2** for autonomous systems and low-level hardware using **STM32** and **Raspberry Pi** — bridging software intelligence with physical machines.
-
-AI didn't make me a better coder — it made me a better problem solver. The bottleneck is no longer syntax; it's clarity of thought, system design, and knowing what actually matters. I see the world as a system waiting to be understood and rebuilt, and I intend to be the one rebuilding it.
-
 ---
 
 ## Core Expertise — *by depth of practice*
