@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=New+era+with+AI%3A+not+a+coder+%E2%80%94+a+problem+solver.;Building+at+the+intersection+of+AI%2C+Graphics+Programming%2C+and+Robotics.;Full+cycle%3A+concept+%E2%86%92+architecture+%E2%86%92+iteration+%E2%86%92+shipping.;Self-taught+through+AI+tools%2C+open-source+communities%2C+and+relentless+iteration.;Don%27t+optimize+for+being+right.+Optimize+for+being+understood." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=AI+era+%E2%80%94+not+a+coder%2C+a+problem+solver.;Engineering+%E2%80%94+simplify+everything%3B+always+ask+the+essence.;Communication+%E2%80%94+don%27t+optimize+for+being+right%3B+optimize+for+being+understood." alt="Typing SVG" />
 
 <br/>
 
