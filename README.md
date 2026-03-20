@@ -20,6 +20,10 @@
 
 ## About Me
 
+- **Senior-leaning full stack engineer.**
+- **Speaking business level English | Japanese | Chinese.**
+- **Currently Learning: AI | MBA course.**
+
 > **AI era** — not a coder, a problem solver.
 >
 > **Engineering** — simplify everything; always ask the essence.
