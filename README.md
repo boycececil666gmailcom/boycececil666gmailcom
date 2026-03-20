@@ -75,6 +75,7 @@
 **Python**
 
 - [Unicode, UTF-8, and Text Rendering: From Bytes to Pixels](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/python/2026-03-12-unicode-utf8-and-text-rendering-from-bytes-to-pixels.md)
+- [Python UI Frameworks: Native vs Custom UI](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/python/2026-03-20-python-ui-frameworks-native-vs-custom-ui.md)
 
 **MCP**
 
