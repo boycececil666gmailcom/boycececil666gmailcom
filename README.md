@@ -40,18 +40,18 @@
 <!-- TUTORIALS:START -->
 ## Self-published Tutorials & Passages — *by expertise tier*
 
-| Tier | Technology | Tutorial |
-|------|-----------|----------|
-| Tier 1 | Python | [Unicode, UTF-8, and Text Rendering: From Bytes to Pixels](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/python/2026-03-12-unicode-utf8-and-text-rendering-from-bytes-to-pixels.md) |
-| Tier 1 | Python | [Python UI Frameworks: Native vs Custom UI](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/python/2026-03-20-python-ui-frameworks-native-vs-custom-ui.md) |
-| Tier 1 | MCP | [How MCP Servers Work: stdio, JSON-RPC, and Process Communication](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/mcp/2026-03-08-how-mcp-servers-work-stdio-json-rpc-and-process-communication.md) |
-| Tier 1 | Stable Diffusion | [Stable Diffusion 3.5 and FLUX.1 LoRA Guide](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/stable-diffusion/2026-03-13-stable-diffusion-3-5-and-flux-1-lora-guide.md) |
-| Tier 1 | Unity | [Understanding the Unity Mono Build Structure](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-understanding-the-unity-mono-build-structure.md) |
-| Tier 1 | Unity | [Unity Atoms — ScriptableObject Architecture for Scalable Unity Projects](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-atoms-scriptable-object-architecture.md) |
-| Tier 1 | Unity | [Unity IL2CPP Build Structure — What Every File and Folder Does](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-il2cpp-build-structure-what-every-file-and-folder-does.md) |
-| Tier 1 | Unity | [Unity StreamingAssets vs the Data Folder Explained](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-streamingassets-vs-the-data-folder-explained.md) |
-| Tier 2 | Docker | [Docker Mental Model — Reproducible Environments, Image Layers, and the Dev-to-Ship Loop](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/docker/2026-03-11-docker-mental-model-reproducible-environments-image-layers-dev-to-ship.md) |
-| Tier 2 | ROS2 | [ROS2 Learning Foundations: The Seven Pillars Before Your First Node](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/ros2/2026-03-11-ros2-learning-foundations-seven-pillars-before-your-first-node.md) |
+| Technology | Tutorial |
+|-----------|----------|
+| Python | [Unicode, UTF-8, and Text Rendering: From Bytes to Pixels](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/python/2026-03-12-unicode-utf8-and-text-rendering-from-bytes-to-pixels.md) |
+| Python | [Python UI Frameworks: Native vs Custom UI](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/python/2026-03-20-python-ui-frameworks-native-vs-custom-ui.md) |
+| MCP | [How MCP Servers Work: stdio, JSON-RPC, and Process Communication](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/mcp/2026-03-08-how-mcp-servers-work-stdio-json-rpc-and-process-communication.md) |
+| Stable Diffusion | [Stable Diffusion 3.5 and FLUX.1 LoRA Guide](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/stable-diffusion/2026-03-13-stable-diffusion-3-5-and-flux-1-lora-guide.md) |
+| Unity | [Understanding the Unity Mono Build Structure](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-understanding-the-unity-mono-build-structure.md) |
+| Unity | [Unity Atoms — ScriptableObject Architecture for Scalable Unity Projects](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-atoms-scriptable-object-architecture.md) |
+| Unity | [Unity IL2CPP Build Structure — What Every File and Folder Does](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-il2cpp-build-structure-what-every-file-and-folder-does.md) |
+| Unity | [Unity StreamingAssets vs the Data Folder Explained](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-streamingassets-vs-the-data-folder-explained.md) |
+| Docker | [Docker Mental Model — Reproducible Environments, Image Layers, and the Dev-to-Ship Loop](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/docker/2026-03-11-docker-mental-model-reproducible-environments-image-layers-dev-to-ship.md) |
+| ROS2 | [ROS2 Learning Foundations: The Seven Pillars Before Your First Node](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/ros2/2026-03-11-ros2-learning-foundations-seven-pillars-before-your-first-node.md) |
 
 <!-- TUTORIALS:END -->
 
