@@ -16,9 +16,12 @@
 
 ## About Me
 
-- **Senior-leaning full stack engineer.**
-- **Speaking business level English | Japanese | Chinese.**
-- **Currently Learning: AI | MBA course.**
+| 🎓 **Education** | Business English · JiangNan University *(QS ~800)* · 2021 – 2025 *(incl. 1 gap year)* |
+|---|---|
+| 💼 **Experience** | Frontend Software Engineer · Thundersoft · Nagoya, Japan · 2025 – present |
+| 🌐 **Languages** | Chinese (Native) · English (TOEFL 105+) · Japanese (JLPT N1) |
+| 👔 **Identity** | Senior-leaning full stack engineer · Hybrid professional bridging IT and business |
+| 📚 **Learning** | Artificial Intelligence · MBA curriculum |
 
 > **AI era** — not a coder, a problem solver.
 >
@@ -37,7 +40,6 @@
 | 🤖 [t1-python-huggingface-transformer](https://github.com/boycececil666gmailcom/t1-python-huggingface-transformer) | HuggingFace Transformers: NLP pipelines, BERT fine-tuning, and Stable Diffusion image generation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-python-huggingface-transformer) |
 | 🛡️ [t1-close-claw](https://github.com/boycececil666gmailcom/t1-close-claw) | Safety-focused fork of OpenClaw — enhanced safety, trust controls, and responsible AI guardrails | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-close-claw) |
 | 🃏 [t2-godot-project-wildcard](https://github.com/boycececil666gmailcom/t2-godot-project-wildcard) | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | [🔗 Demo](https://boycececil.itch.io/the-wildcard) |
-| Repo | Description | Tech Stack | Demo |
 | 🐳 [t2-ros-test](https://github.com/boycececil666gmailcom/t2-ros-test) | ROS 2 Humble development environment via Docker — reproducible robotics workspace with volume-mounted source | ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t2-ros-test) |
 
 <!-- TUTORIALS:START -->
@@ -113,18 +115,6 @@
 | **Ethereum** ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | Web3 protocols + smart contracts | Blockchain primitives | Working knowledge before mainstream |
 | **Raspberry Pi** ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) | Embedded Linux + hardware | GPIO control, headless servers | Software meets physical hardware |
 | **STM32** ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) | Bare-metal MCU programming | GPIO + PWM control | Direct motor control + sensors |
-
-
-
----
-
-## Background
-
-| | |
-|---|---|
-| 🎓 **Education** | Business English · JiangNan University *(QS ~800)* · 2021 – 2025 *(incl. 1 gap year)* |
-| 💼 **Experience** | Frontend Software Engineer · Thundersoft · Nagoya, Japan · 2025 – present |
-| 🌐 **Languages** | Chinese — Native &nbsp;·&nbsp; English — TOEFL 105+ &nbsp;·&nbsp; Japanese — JLPT N1 · Proficient in reading, writing & speaking; comfortable with communicating with native speakers |
 
 ---
 
