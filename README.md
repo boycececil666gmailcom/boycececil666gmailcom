@@ -10,10 +10,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/boycececil666gmailcom?label=Follow&style=for-the-badge&logo=github&color=58A6FF&labelColor=0d1117)](https://github.com/boycececil666gmailcom)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=boycececil666gmailcom&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/boycececil666gmailcom)
-
 </div>
 
 ---
@@ -29,6 +25,29 @@
 > **Engineering** — simplify everything; always ask the essence.
 >
 > **Communication** — don't optimize for being right; optimize for being understood.
+
+## Projects
+
+### Dev 1 — Primary Focus
+
+| Repo | Description | Tech Stack | Demo |
+|------|-------------|------------|------|
+| 🔨 [t1-python-super-amazing-readme-forge](https://github.com/boycececil666gmailcom/t1-python-super-amazing-readme-forge) | !!TOTAL FREE!!Desktop app to visually build & export a GitHub profile README | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=flat-square&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-python-super-amazing-readme-forge) |
+| 🔨 [t1-python-daemon-git](https://github.com/boycececil666gmailcom/t1-python-daemon-git) | CLI daemon that auto-clones all GitHub repos locally and syncs them on a schedule | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-python-daemon-git) |
+| 👁 [t1-argus](https://github.com/boycececil666gmailcom/t1-argus) | Always-on daemon that records active app + window time every 5s and generates daily/weekly behavior reports to understand yourself | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Rich](https://img.shields.io/badge/Rich-000000?style=flat-square&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-argus) |
+| 🔒 [t1-csharp-vault-sync](https://github.com/boycececil666gmailcom/t1-csharp-vault-sync) | AES-256-GCM file watcher that encrypts your Safe folder and syncs encrypted copies to Google Drive | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-csharp-vault-sync) |
+| 🤖 [t1-mcp-todolist](https://github.com/boycececil666gmailcom/t1-mcp-todolist) | MCP-connected todo list: Hono REST API, Prisma ORM, MCP server, and Next.js client | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-mcp-todolist) |
+| 🤖 [t1-python-huggingface-transformer](https://github.com/boycececil666gmailcom/t1-python-huggingface-transformer) | HuggingFace Transformers: NLP pipelines, BERT fine-tuning, and Stable Diffusion image generation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-python-huggingface-transformer) |
+| 🛡️ [t1-close-claw](https://github.com/boycececil666gmailcom/t1-close-claw) | Safety-focused fork of OpenClaw — enhanced safety, trust controls, and responsible AI guardrails | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-close-claw) |
+| 🃏 [t2-godot-project-wildcard](https://github.com/boycececil666gmailcom/t2-godot-project-wildcard) | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | [🔗 Demo](https://boycececil.itch.io/the-wildcard) |
+
+### Dev 2 — Building Experience
+
+| Repo | Description | Tech Stack | Demo |
+|------|-------------|------------|------|
+| 🐳 [t2-ros-test](https://github.com/boycececil666gmailcom/t2-ros-test) | ROS 2 Humble development environment via Docker — reproducible robotics workspace with volume-mounted source | ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t2-ros-test) |
+
+---
 
 ## Core Expertise — *by depth of practice*
 
@@ -103,36 +122,6 @@
 - [ROS2 Learning Foundations: The Seven Pillars Before Your First Node](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/ros2/2026-03-11-ros2-learning-foundations-seven-pillars-before-your-first-node.md)
 
 <!-- TUTORIALS:END -->
-
----
-
-## Projects
-
-### Tier 1 — Primary Focus
-
-| Repo | Description | Tech Stack | Demo |
-|------|-------------|------------|------|
-| 🔨 [t1-python-super-amazing-readme-forge](https://github.com/boycececil666gmailcom/t1-python-super-amazing-readme-forge) | !!TOTAL FREE!!Desktop app to visually build & export a GitHub profile README | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=flat-square&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-python-super-amazing-readme-forge) |
-| 🔨 [t1-python-daemon-git](https://github.com/boycececil666gmailcom/t1-python-daemon-git) | CLI daemon that auto-clones all GitHub repos locally and syncs them on a schedule | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-python-daemon-git) |
-| 👁 [t1-argus](https://github.com/boycececil666gmailcom/t1-argus) | Always-on daemon that records active app + window time every 5s and generates daily/weekly behavior reports to understand yourself | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Rich](https://img.shields.io/badge/Rich-000000?style=flat-square&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-argus) |
-| 🎮 [t1-unity-hell-love](https://github.com/boycececil666gmailcom/t1-unity-hell-love) | Main Unity build of the hellLove game project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
-| 🤖 [t1-unity-hrsim](https://github.com/boycececil666gmailcom/t1-unity-hrsim) | Human resources simulation system in Unity | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | 🔗 *coming soon* |
-| 🔒 [t1-csharp-vault-sync](https://github.com/boycececil666gmailcom/t1-csharp-vault-sync) | AES-256-GCM file watcher that encrypts your Safe folder and syncs encrypted copies to Google Drive | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-csharp-vault-sync) |
-| 📦 [t1-csharp-module-temp](https://github.com/boycececil666gmailcom/t1-csharp-module-temp) | C# module / template work | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | 🔗 *coming soon* |
-| 🧊 [t1-blender-3d-work](https://github.com/boycececil666gmailcom/t1-blender-3d-work) | Graphics tooling and scripts | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🔗 *coming soon* |
-| 💀 [t1-blender-project-death](https://github.com/boycececil666gmailcom/t1-blender-project-death) | Visual project in Blender & Unreal | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | 🔗 *coming soon* |
-| 🤖 [t1-mcp-todolist](https://github.com/boycececil666gmailcom/t1-mcp-todolist) | MCP-connected todo list: Hono REST API, Prisma ORM, MCP server, and Next.js client | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-mcp-todolist) |
-| 🤖 [t1-python-huggingface-transformer](https://github.com/boycececil666gmailcom/t1-python-huggingface-transformer) | HuggingFace Transformers: NLP pipelines, BERT fine-tuning, and Stable Diffusion image generation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-python-huggingface-transformer) |
-| 🛡️ [t1-close-claw](https://github.com/boycececil666gmailcom/t1-close-claw) | Safety-focused fork of OpenClaw — enhanced safety, trust controls, and responsible AI guardrails | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-close-claw) |
-| 🃏 [t2-godot-project-wildcard](https://github.com/boycececil666gmailcom/t2-godot-project-wildcard) | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | [🔗 Demo](https://boycececil.itch.io/the-wildcard) |
-
-### Tier 2 — Building Experience
-
-| Repo | Description | Tech Stack | Demo |
-|------|-------------|------------|------|
-| 🌐 [t2-js-hell-love-tcb](https://github.com/boycececil666gmailcom/t2-js-hell-love-tcb) | Web client layer for the hellLove project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
-| 💬 [t2-js-mjdc](https://github.com/boycececil666gmailcom/t2-js-mjdc) | WeChat Mini Program | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🔗 *coming soon* |
-| 🐳 [t2-ros-test](https://github.com/boycececil666gmailcom/t2-ros-test) | ROS 2 Humble development environment via Docker — reproducible robotics workspace with volume-mounted source | ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t2-ros-test) |
 
 ---
 
