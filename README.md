@@ -23,11 +23,7 @@
 | 👔 **Identity** | Senior-leaning full stack engineer · Hybrid professional bridging IT and business |
 | 📚 **Learning** | Artificial Intelligence · MBA curriculum |
 
-> **AI era** — not a coder, a problem solver.
->
-> **Engineering** — simplify everything; always ask the essence.
->
-> **Communication** — don't optimize for being right; optimize for being understood.
+
 
 ## Projects
 | Repo | Description | Tech Stack | Demo |
