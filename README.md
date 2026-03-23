@@ -90,7 +90,7 @@
 
 ### Tier 1 — Primary Focus
 
-| Technology | A (Accomplishment) | B (Behavior) | C (Consequence) |
+| Technology | A (Aim) | B (Behavior) | C (Consequence) |
 |------------|-----------------|---------------|-----------------|
 | **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Architected production-grade automation tools (readme forge, git daemon, HuggingFace transformers, behavioral tracking) | Leveraged Python's ecosystem for rapid iteration and system integration | 4 shipped products that eliminate manual workflows and reduce operational overhead. |
 | **C#** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | Developed cryptographic file pipelines and simulation systems | Implemented AES-256-GCM encryption, real-time file watchers, event-driven patterns | Production-grade security and complex game logic powering simulation engines. |
@@ -103,7 +103,7 @@
 
 ### Tier 2 — Building Experience
 
-| Technology | A (Accomplishment) | B (Behavior) | C (Consequence) |
+| Technology | A (Aim) | B (Behavior) | C (Consequence) |
 |------------|-----------------|---------------|-----------------|
 | **Graphics Programming** ![Graphics](https://img.shields.io/badge/Graphics_Programming-CF222E?style=flat-square&logoColor=white) | Authored shader systems and pushed GPU optimization boundaries | Worked across Unity HLSL, Blender nodes, Unreal rendering; profiled and iterated on real-time systems | Visually distinctive experiences that separate commodity software from memorable products. |
 | **Photoshop** ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | Owned complete visual asset creation pipeline | Crafted game textures and UI assets in-house | Eliminated dependency on external designers; maintained full creative control. |
@@ -112,7 +112,7 @@
 
 ### Tier 3 — Exploring
 
-| Technology | A (Accomplishment) | B (Behavior) | C (Consequence) |
+| Technology | A (Aim) | B (Behavior) | C (Consequence) |
 |------------|-----------------|---------------|-----------------|
 | **Unreal Engine** ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | Progressing toward production-quality environment staging | Learning Unreal's rendering pipeline and material system | Targeting photoreal graphics that rival film-grade visualization. |
 | **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Delivered production frontend solutions and sharpened expertise | Shipped web clients, WeChat Mini Programs, full-stack integrations; daily professional practice at Thundersoft | Real users interact with backend systems; professional-grade UI/UX in production environments. |
