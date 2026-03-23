@@ -90,75 +90,38 @@
 
 ### Tier 1 — Primary Focus
 
-**Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Architected** production-grade automation tools and daemons (readme forge, git daemon, HuggingFace transformers, behavioral tracking) **by** leveraging Python's ecosystem for rapid iteration and system integration **resulting in** 4 shipped products that eliminate manual workflows and reduce operational overhead.
-- **Engineered** desktop UIs and behavioral analysis systems **by** combining Python with SQLite, Rich, and custom Tkinter frameworks **to deliver** always-on monitoring solutions that capture 20+ million data points annually.
-
-**C#** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-- **Developed** cryptographic file pipeline systems **by** implementing AES-256-GCM encryption and real-time file watchers **achieving** production-grade security for encrypted backup infrastructure.
-- **Built** simulation and gameplay architecture systems **by** designing event-driven patterns and state management **powering** complex game logic and human resource simulation engines.
-
-**Unity** ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
-- **Architected** production graphics pipelines and real-time simulation systems **by** mastering ScriptableObject architecture and render path customization **enabling** high-fidelity in-engine experiences that rival AAA standards.
-- **Owned** full engine stack integration **from** gameplay scripting through build optimization **delivering** comprehensive game development solutions without external dependencies.
-
-**Graphics Programming** ![Graphics](https://img.shields.io/badge/Graphics_Programming-CF222E?style=flat-square&logoColor=white)
-- **Authored** shader systems and render pipelines **by** working across Unity HLSL, Blender material nodes, and Unreal's rendering architecture **creating** visually distinctive experiences that separate commodity software from memorable products.
-- **Pushed** GPU optimization boundaries **by** profiling, debugging, and iterating on real-time visual systems **achieving** performance targets without compromising visual fidelity.
-
-**Photoshop** ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-- **Owned** complete visual asset creation **by** crafting game textures and UI assets in-house **eliminating** dependency on external designers and maintaining full creative control.
-
-**Blender** ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-- **Established** end-to-end graphics asset pipelines **by** combining modeling, texturing, and Python scripting **eliminating** dependency on external artists and reducing asset turnaround time.
-- **Integrated** Blender into production workflows **by** automating asset export and engine integration **enabling** seamless asset iteration from concept to shipped product.
-
-**MCP** ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
-- **Implemented** full-stack LLM-to-live-systems bridges **by** building REST APIs, Prisma ORMs, and MCP servers **empowering** AI agents to interact with databases and local tools instead of just generating text.
-
-**Stable Diffusion** ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white)
-- **Deployed** local generative pipelines **by** fine-tuning LoRA models and running inference on commodity hardware **enabling** on-demand visual asset generation without cloud API costs or latency.
-
-**Godot** ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-- **Shipped** cross-platform gameplay prototype **by** leveraging Godot's node architecture and GDScript **delivering** production-quality game that won player feedback and community recognition.
-
-**Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- **Scaled** version control infrastructure **by** automating cross-repo synchronization and batch operations **managing** 20+ repository ecosystem with zero manual friction.
-
-**Communication** 
-- **Facilitated** technical understanding **by** navigating CN/EN/JP contexts (written, spoken, async) **ensuring** technical precision lands through emotional connection and cultural context—not just information transfer.
-
-**Engineering Thinking**
-- **Simplified** complex problems **by** identifying core constraints and root causes **shipping** solutions that do one thing exceptionally well rather than many things adequately.
+| Technology | A (Accomplishment) | B (Behavior) | C (Consequence) |
+|------------|-----------------|---------------|-----------------|
+| **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Architected production-grade automation tools (readme forge, git daemon, HuggingFace transformers, behavioral tracking) | Leveraged Python's ecosystem for rapid iteration and system integration | 4 shipped products that eliminate manual workflows and reduce operational overhead. |
+| **C#** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | Developed cryptographic file pipelines and simulation systems | Implemented AES-256-GCM encryption, real-time file watchers, event-driven patterns | Production-grade security and complex game logic powering simulation engines. |
+| **Unity** ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | Architected production graphics pipelines and real-time simulation systems | Mastered ScriptableObject architecture and render path customization | High-fidelity in-engine experiences that rival AAA standards. |
+| **Graphics Programming** ![Graphics](https://img.shields.io/badge/Graphics_Programming-CF222E?style=flat-square&logoColor=white) | Authored shader systems and pushed GPU optimization boundaries | Worked across Unity HLSL, Blender nodes, Unreal rendering; profiled and iterated on real-time systems | Visually distinctive experiences that separate commodity software from memorable products. |
+| **Photoshop** ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | Owned complete visual asset creation pipeline | Crafted game textures and UI assets in-house | Eliminated dependency on external designers; maintained full creative control. |
+| **Blender** ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) | Established end-to-end graphics asset pipelines | Combined modeling, texturing, and Python scripting; automated asset export and engine integration | Reduced asset turnaround time; enabled seamless iteration from concept to shipped product. |
+| **MCP** ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white) | Implemented full-stack LLM-to-live-systems bridges | Built REST APIs, Prisma ORMs, and MCP servers | AI agents interact with databases and local tools instead of just generating text. |
+| **Stable Diffusion** ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white) | Deployed local generative pipelines | Fine-tuned LoRA models and ran inference on commodity hardware | On-demand visual asset generation without cloud API costs or latency. |
+| **Godot** ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | Shipped cross-platform gameplay prototype | Leveraged Godot's node architecture and GDScript | Production-quality game that won player feedback and community recognition. |
+| **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Scaled version control infrastructure | Automated cross-repo synchronization and batch operations | 20+ repository ecosystem managed with zero manual friction. |
+| **Communication** | Facilitated technical understanding across contexts | Navigated CN/EN/JP (written, spoken, async) | Technical precision lands through emotional connection and cultural context. |
+| **Engineering Thinking** | Simplified complex problems at scale | Identified core constraints and root causes in every project | Solutions that do one thing exceptionally well rather than many things adequately. |
 
 ### Tier 2 — Building Experience
 
-**Unreal Engine** ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-- **Progressing** toward production-quality environment staging **by** learning Unreal's rendering pipeline and material system **targeting** photoreal graphics that rival film-grade visualization.
-
-**JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **Delivered** production frontend solutions **by** shipping web clients, WeChat Mini Programs, and full-stack integrations **enabling** real users to interact with backend game systems and services.
-- **Sharpened** frontend expertise **through** daily professional engineering at Thundersoft **achieving** professional-grade UI/UX practices in production environments.
-
-**ROS 2** ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
-- **Architected** containerized robotics development environments **by** designing reproducible Docker-based ROS workspaces **enabling** reproducible autonomous systems development and cross-team collaboration.
-
-**Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- **Established** reproducible infrastructure-as-code practices **by** containerizing complex robotics stacks with volume mounting and orchestration **proving** that containerization matters for any serious engineering work, not just microservices.
-
-**HTML / CSS** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- **Mastered** responsive layout and DOM logic **through** daily professional practice at Thundersoft **shipping** accessible, performant frontends that work across devices and browsers.
+| Technology | A (Accomplishment) | B (Behavior) | C (Consequence) |
+|------------|-----------------|---------------|-----------------|
+| **Unreal Engine** ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | Progressing toward production-quality environment staging | Learning Unreal's rendering pipeline and material system | Targeting photoreal graphics that rival film-grade visualization. |
+| **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Delivered production frontend solutions and sharpened expertise | Shipped web clients, WeChat Mini Programs, full-stack integrations; daily professional practice at Thundersoft | Real users interact with backend systems; professional-grade UI/UX in production environments. |
+| **ROS 2** ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) | Architected containerized robotics development environments | Designed reproducible Docker-based ROS workspaces | Reproducible autonomous systems development and cross-team collaboration. |
+| **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Established reproducible infrastructure-as-code practices | Containerized complex robotics stacks with volume mounting and orchestration | Proved containerization matters for any serious engineering work, not just microservices. |
+| **HTML / CSS** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Mastered responsive layout and DOM logic | Daily professional practice at Thundersoft | Accessible, performant frontends that work across devices and browsers. |
 
 ### Tier 3 — Exploring
 
-**Ethereum** ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-- **Researching** Web3 protocols and smart contracts **by** studying blockchain primitives and decentralized trust models **targeting** working knowledge before these concepts become mainstream infrastructure.
-
-**Raspberry Pi** ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-- **Learning** embedded Linux and hardware interfacing **by** building headless server setups and GPIO control systems **bridging** the gap between software abstraction and physical hardware reality.
-
-**STM32** ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-- **Studying** bare-metal MCU programming **by** implementing low-level GPIO and PWM control **enabling** direct motor control and sensor integration—the layer where code becomes physical motion.
+| Technology | A (Accomplishment) | B (Behavior) | C (Consequence) |
+|------------|-----------------|---------------|-----------------|
+| **Ethereum** ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | Researching Web3 protocols and smart contracts | Studying blockchain primitives and decentralized trust models | Working knowledge before these concepts become mainstream infrastructure. |
+| **Raspberry Pi** ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) | Learning embedded Linux and hardware interfacing | Building headless server setups and GPIO control systems | Bridging the gap between software abstraction and physical hardware reality. |
+| **STM32** ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) | Studying bare-metal MCU programming | Implementing low-level GPIO and PWM control | Direct motor control and sensor integration—the layer where code becomes physical motion. |
 
 
 
