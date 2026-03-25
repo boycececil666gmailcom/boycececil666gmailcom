@@ -21,7 +21,7 @@
 | 💼 **Experience** | Frontend Software Engineer · Thundersoft · Nagoya, Japan · 2025 – present |
 | 🌐 **Languages** | Chinese (Native) · English (TOEFL 105+) · Japanese (JLPT N1) |
 | 👔 **Identity** | Senior-leaning full stack engineer · Hybrid professional bridging IT and business |
-| 📚 **Learning** | CFA |
+| 📚 **Learning** | CFA · ✅ [Financial Markets](https://www.coursera.org/learn/financial-markets-global) *(Yale · Coursera)* |
 | 🎓 **Education** | Business English · JUN *(QS ~800)* · 2021 – 2025 *(incl. 1 gap year)* |
 
 ## Projects
