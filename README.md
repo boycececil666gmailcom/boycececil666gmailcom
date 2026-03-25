@@ -27,7 +27,6 @@
 ## Projects
 | Repo | Description | Tech Stack | Demo |
 |------|-------------|------------|------|
-| 🔨 [t1-pub-python-super-amazing-readme-forge](https://github.com/boycececil666gmailcom/t1-pub-python-super-amazing-readme-forge) | !!TOTAL FREE!!Desktop app to visually build & export a GitHub profile README | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=flat-square&logoColor=white) | [🔗 Demo](https://github.com/boycececil666gmailcom/t1-pub-python-super-amazing-readme-forge) |
 | 👁 [t1-pub-argus](https://github.com/boycececil666gmailcom/t1-pub-argus) | Always-on daemon that records active app + window time every 5s and generates daily/weekly behavior reports to understand yourself | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Rich](https://img.shields.io/badge/Rich-000000?style=flat-square&logoColor=white) | [🔗 Repo](https://github.com/boycececil666gmailcom/t1-pub-argus) |
 | 🃏 [t2-pub-godot-project-wildcard](https://github.com/boycececil666gmailcom/t2-pub-godot-project-wildcard) | Game project built in Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | [🔗 Demo](https://boycececil.itch.io/the-wildcard) |
 
