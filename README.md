@@ -21,7 +21,6 @@
 | 💼 **Experience** | Frontend Software Engineer · Thundersoft · Nagoya, Japan · 2025 – present |
 | 🌐 **Languages** | Chinese (Native) · English (TOEFL 105+) · Japanese (JLPT N1) |
 | 👔 **Identity** | Senior-leaning full stack engineer · Hybrid professional bridging IT and business |
-| 📚 **Learning** | CFA · ✅ [Financial Markets](https://www.coursera.org/learn/financial-markets-global) *(Yale · Coursera)* |
 | 🎓 **Education** | Business English · JUN *(QS ~800)* · 2021 – 2025 *(incl. 1 gap year)* |
 
 ## Projects
@@ -40,10 +39,6 @@
 | Python | [Python UI Frameworks: Native vs Custom UI](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/python/2026-03-20-python-ui-frameworks-native-vs-custom-ui.md) |
 | MCP | [How MCP Servers Work: stdio, JSON-RPC, and Process Communication](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/mcp/2026-03-08-how-mcp-servers-work-stdio-json-rpc-and-process-communication.md) |
 | Stable Diffusion | [Stable Diffusion 3.5 and FLUX.1 LoRA Guide](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/stable-diffusion/2026-03-13-stable-diffusion-3-5-and-flux-1-lora-guide.md) |
-| Unity | [Understanding the Unity Mono Build Structure](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-understanding-the-unity-mono-build-structure.md) |
-| Unity | [Unity Atoms — ScriptableObject Architecture for Scalable Unity Projects](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-atoms-scriptable-object-architecture.md) |
-| Unity | [Unity IL2CPP Build Structure — What Every File and Folder Does](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-il2cpp-build-structure-what-every-file-and-folder-does.md) |
-| Unity | [Unity StreamingAssets vs the Data Folder Explained](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-streamingassets-vs-the-data-folder-explained.md) |
 | Docker | [Docker Mental Model — Reproducible Environments, Image Layers, and the Dev-to-Ship Loop](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/docker/2026-03-11-docker-mental-model-reproducible-environments-image-layers-dev-to-ship.md) |
 | ROS2 | [ROS2 Learning Foundations: The Seven Pillars Before Your First Node](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/ros2/2026-03-11-ros2-learning-foundations-seven-pillars-before-your-first-node.md) |
 
@@ -58,8 +53,6 @@
 | Technology | A (Aim) | B (Behavior) | C (Consequence) |
 |------------|-----------------|---------------|-----------------|
 | **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Build production automation tools | Rapid iteration with Python ecosystem; Textual/Rich terminal UIs | 4 shipped products, zero manual workflows; SafeGuard-style vault encryption (AES-GCM, Watchdog) |
-| **C#** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | Cryptographic pipelines & simulation | AES-256-GCM, event-driven patterns | Production security + complex game logic |
-| **Unity** ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | Production graphics + real-time systems | ScriptableObject & render optimization | AAA-grade in-engine experiences |
 | **MCP** ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white) | LLM-to-systems bridges | REST APIs, Prisma ORM, MCP servers | AI agents interact with real data |
 | **Stable Diffusion** ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=flat-square&logoColor=white) | Local generative pipelines | LoRA fine-tuning on commodity hardware | On-demand assets, no cloud costs |
 | **Godot** ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | Cross-platform gameplay | Node architecture + GDScript | Shipped game with community recognition |
@@ -70,6 +63,8 @@
 
 | Technology | A (Aim) | B (Behavior) | C (Consequence) |
 |------------|-----------------|---------------|-----------------|
+| **C#** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | Cryptographic pipelines & simulation | AES-256-GCM, event-driven patterns | Production security + complex game logic |
+| **Unity** ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | Production graphics + real-time systems | ScriptableObject & render optimization | AAA-grade in-engine experiences |
 | **Graphics Programming** ![Graphics](https://img.shields.io/badge/Graphics_Programming-CF222E?style=flat-square&logoColor=white) | Shader systems + GPU optimization | HLSL, Blender nodes, Unreal rendering | Visually distinctive experiences |
 | **Photoshop** ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | Complete asset creation pipeline | In-house textures + UI design | Full creative control, no external deps |
 | **Blender** ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) | End-to-end graphics pipelines | Modeling, texturing, Python scripting | Reduced turnaround, seamless iteration |
