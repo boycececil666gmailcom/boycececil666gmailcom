@@ -210,12 +210,12 @@ SEs work at the intersection of business and technology. Understanding how compa
 
 ## Recommended Qualifications
 
-These four certifications cover the core knowledge areas most SEs encounter daily. They are not strictly required, but passing them demonstrates breadth and commitment.
+These four certifications are recognized globally across the industry. They are not strictly required, but passing them signals well-rounded technical competency to any employer worldwide.
 
-1. **FE (Fundamentals of Information Technology)** — covers IT basics: hardware, software, networks, databases, security, and project management. A solid foundation for early-career SEs.
-2. **AP (Applied Information Technology)** — goes deeper than FE into system architecture, network design, and project management. Signals mid-level competency.
-3. **ORACLE Certified Associate (OCA) / Professional (OCP)** — validates database design and SQL proficiency. Database skills are used in virtually every SE project.
-4. **CCNA (Cisco Certified Network Associate)** — covers networking fundamentals: routing, switching, LAN/WAN, and basic security. Networking knowledge underpins every distributed system.
+1. **AWS Certified Solutions Architect – Associate** — validates the ability to design scalable, fault-tolerant systems on AWS. Cloud architecture skills are in demand in virtually every market.
+2. **CompTIA Security+** — covers core cybersecurity concepts: threats, vulnerabilities, cryptography, identity management, and risk mitigation. A foundational security credential respected worldwide.
+3. **Google Cloud Professional Data Engineer** — demonstrates proficiency in designing, building, and operationalizing data processing systems on Google Cloud. Relevant across cloud-native and enterprise environments.
+4. **PMP (Project Management Professional)** — the globally recognized standard for project management competency. Covers scope, schedule, cost, quality, risk, and stakeholder management across any methodology.
 
 ---
 
@@ -428,7 +428,7 @@ SEはビジネスとテクノロジーの交差点に立つ職業です。企業
 
 以下の4つの資格はSEが日常的遇到する主要知識領域をカバーします。必ずしも必須ではありませんが、合格すればpectiveな知識習得と判断力を示すことができます。
 
-1. **基本情報技術者試験（FE）** — ハードウェア、ソフトウェア、ネットワーク、データベース、セキュリティ、プロジェクト管理の基本を網羅。初心SEの足固めに最適。
-2. **応用情報技術者試験（AP）** — FEより深く、システムアーキテクチャ、ネットワーク設計、プロジェクト管理に触れる。中級レベルの知識証明になる。
-3. **ORACLE Certified Associate（OCA）/ Professional（OCP）** — データベース設計とSQL習熟を検証 VirtuallyすべてのSEプロジェクトでデータベースが使われているため、需要が高い。
-4. **CCNA（Cisco Certified Network Associate）** — ルーティング、切換、LAT/WAN、セキュリティの基礎をカバー。分散システムの設計・運用にはネットワーク知識が不可欠。
+1. **AWS Certified Solutions Architect – Associate** — AWS上でスケーラブルで耐障害性のあるシステムを設計する能力を検証します。クラウドアーキテクチャのスキルはほとんどすべての市場で需要があります。
+2. **CompTIA Security+** — 脅威、脆弱性、暗号化、身份管理、リスク軽減などのセキュリティ基本概念をカバー。世界中で評価されるセキュリティの foundation 資格。
+3. **Google Cloud Professional Data Engineer** — Google Cloud上でデータ処理システムを設計、構築、運用する能力を示します。クラウドネイティブ環境でも企业環境でも関連性が高い。
+4. **PMP（Project Management Professional）** — プロジェクト管理능력の世界標準。スコープ、スケジュール、コスト、品質、リスク、ステークホルダー管理を.any 方法論に合わせてカバー。
