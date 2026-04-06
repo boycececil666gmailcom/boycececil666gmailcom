@@ -46,6 +46,33 @@ Use Porter's five primary activities to find cost leaks:
 
 Supporting activities: Firm infrastructure, Human resources, Technology, Procurement.
 
+### Growth Strategy as a Profitability Lever (Ansoff Matrix)
+
+Profitability improvement is not always about cutting costs — growth strategy is often the most powerful lever. The **Ansoff Matrix** maps four growth vectors, each with different profitability trade-offs:
+
+| | Existing Product | New Product |
+|---|---|---|
+| **Existing Market** | Market Penetration | Product Development |
+| **New Market** | Market Development | Diversification |
+
+Each quadrant implies a different cost structure and margin profile:
+
+- **Market Penetration (Existing × Existing):** Lowest risk and highest margin leverage. Growing share in an existing market with existing products means you already have the cost structure, distribution, and brand. Profitability improvement comes from operating leverage — spread fixed costs over more units, negotiate better supplier terms at higher volume, and improve revenue efficiency (pricing, upsell, retention). This is the fastest path to margin improvement.
+
+- **Product Development (Existing × New):** Moderate risk. Developing new products for existing customers leverages your relationships and channel access. Margins improve if the new product commands a premium or has a superior cost structure. The key profitability question: does the new product's contribution margin exceed the development and launch cost within your target payback period?
+
+- **Market Development (Existing × New):** Moderate risk, but margin profile depends on the new market. Entering adjacent geographies or customer segments with existing products can unlock growth without R&D cost. However, watch for channel expansion costs, localization overhead, and potential pricing dilution in price-sensitive new markets. The profitability test: does incremental revenue from the new market cover the incremental costs and still improve overall margin?
+
+- **Diversification (New × New):** Highest risk and highest uncertainty on both revenue and cost. Pure diversification should only be pursued when the core business is structurally declining or the opportunity is uniquely timed. Profitability frameworks here must be built from scratch — apply full M&A diligence standards (see Section 7) before committing capital.
+
+**Applying Ansoff to profitability improvement:**
+
+For any client with a margin problem, ask: *"Is the problem that we are not growing enough, or that growth is unprofitable?"*
+
+- If growth is profitable but insufficient: prioritize market penetration or geographic expansion.
+- If growth is unprofitable (e.g., discounting, channel dilution): reconsider product development or segmentation strategy before expanding.
+- If core business is declining: evaluate diversification only after exhausting market penetration and product development options.
+
 ### Real-World Example: Starbucks Margin Decline
 
 **Situation:** Starbucks reports that its operating margin dropped from 22% to 15% in Q3 2024. The CEO hires McKinsey to diagnose the root cause.
