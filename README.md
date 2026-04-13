@@ -37,6 +37,7 @@
 | Technology | Tutorial |
 |-----------|----------|
 | Python | [Unicode, UTF-8, and Text Rendering: From Bytes to Pixels](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/python/2026-03-12-unicode-utf8-and-text-rendering-from-bytes-to-pixels.md) |
+| Python | [LLM Quantization, Model Size & GGUF Explained](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/python/2026-04-13-llm-quantization-model-size-gguf-explained.md) |
 | Python | [Python UI Frameworks: Native vs Custom UI](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/python/2026-03-20-python-ui-frameworks-native-vs-custom-ui.md) |
 | MCP | [How MCP Servers Work: stdio, JSON-RPC, and Process Communication](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/mcp/2026-03-08-how-mcp-servers-work-stdio-json-rpc-and-process-communication.md) |
 | MCP | [Computer Fundamentals for AI Developers: Memory Hierarchy, RAM, and I/O Performance](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/mcp/2026-03-31-computer-fundamentals-memory-hierarchy-ram-and-io-performance.md) |
