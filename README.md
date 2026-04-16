@@ -52,7 +52,7 @@
 | Unity | [Unity StreamingAssets vs the Data Folder Explained](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier1/unity/2026-03-06-unity-streamingassets-vs-the-data-folder-explained.md) |
 | Docker | [Docker Mental Model — Reproducible Environments, Image Layers, and the Dev-to-Ship Loop](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/docker/2026-03-11-docker-mental-model-reproducible-environments-image-layers-dev-to-ship.md) |
 | ROS2 | [ROS2 Learning Foundations: The Seven Pillars Before Your First Node](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/ros2/2026-03-11-ros2-learning-foundations-seven-pillars-before-your-first-node.md) |
-| JavaScript | [Electron 应用架构：主进程、渲染进程与预加载脚本](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/javascript/2026-04-16-electron-app-architecture-main-process-renderer-preload.md) |
+| JavaScript | [Electron App Architecture: Main Process, Renderer Process, and the Preload Script](https://github.com/boycececil666gmailcom/boycececil666gmailcom/blob/master/tutorials/tier2/javascript/2026-04-16-electron-app-architecture-main-process-renderer-preload.md) |
 
 <!-- TUTORIALS:END -->
 
