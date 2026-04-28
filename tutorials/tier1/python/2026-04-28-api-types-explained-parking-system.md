@@ -2,6 +2,8 @@
 
 APIs are the communication contracts that let software components talk to each other. This article walks through every major API type, then puts them all together with a real-world parking garage system.
 
+![Cover — API Types Explained](api-types-explained-parking-system/cover.png)
+
 ---
 
 ## What Is an API?
