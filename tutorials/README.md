@@ -6,9 +6,9 @@ This directory is the central repository for all published tutorials, articles, 
 
 ```
 tutorials/
-├── tier1/   — Tier 1 Primary Focus (Python, C#, Unity, Blender, Photoshop, Git, MCP, Stable Diffusion)
-├── tier2/   — Tier 2 Building Experience (Unreal Engine, JavaScript, ROS 2, HTML, Godot)
-└── tier3/   — Tier 3 Exploring (Ethereum, Raspberry Pi, STM32)
+├── tier1/   — Foundations & Core Concepts (Python, C#, Unity, Blender, Photoshop, Git, MCP, Stable Diffusion, Business)
+├── tier2/   — Intermediate & Applied Skills (Docker, Godot, JavaScript, ROS 2, HTML, Unreal Engine)
+└── tier3/   — Advanced & Specialized (Ethereum, Raspberry Pi, STM32)
 ```
 
 Each tier contains topic subfolders. Drop `.md` articles directly inside the topic subfolder.
@@ -20,10 +20,14 @@ Each tier contains topic subfolders. Drop `.md` articles directly inside the top
 
 ## Updating the Profile README
 
-After adding new articles, run the update script from the repo root:
+To keep the local checkout and GitHub in sync, pull first, regenerate the README, then push the update back to the remote:
 
 ```bash
+git pull origin master
 python .copilot/skills/update-readme/scripts/update_readme.py
+git add README.md
+git commit -m "Update Tutorials & Passages README"
+git push origin master
 ```
 
-This scans all article files and regenerates the **Tutorials & Passages** section in `README.md` with correct links.
+This scans all article files in the synced checkout and regenerates the **Tutorials & Passages** section in `README.md` with correct links.
