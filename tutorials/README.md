@@ -7,7 +7,7 @@ This directory is the central repository for all published tutorials, articles, 
 ```
 tutorials/
 ├── tier1/   — Foundations & Core Concepts (Python, C#, Unity, Blender, Photoshop, Git, MCP, Stable Diffusion, Business)
-├── tier2/   — Intermediate & Applied Skills (Docker, Godot, JavaScript, ROS 2, HTML, Unreal Engine)
+├── tier2/   — Intermediate & Applied Skills (Docker, Godot, JavaScript, ROS 2, HTML)
 └── tier3/   — Advanced & Specialized (Ethereum, Raspberry Pi, STM32)
 ```
 

@@ -46,9 +46,7 @@
 | **Electron** ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) | |
 | **Godot** ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | [t2-pub-godot-project-wildcard](https://boycececil.itch.io/the-wildcard) |
 | **Unity** ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) | |
-| **Photoshop** ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | |
-| **Blender** ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) | |
-| **OpenGL** ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) | |
+| **3D Generalist** ![3D Generalist](https://img.shields.io/badge/3D_Generalist-FF9800?style=flat-square&logoColor=white) | |
 | **FastAPI** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | [url-shortener](https://github.com/boycececil666gmailcom/url-shortener) |
 
 ### Level 1 — Understanding Basics *(The Theory Phase)*
@@ -56,9 +54,8 @@
 
 | Technology | Project |
 |------------|--------|
-| **MCP** ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white) | |
-| **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | |
-| **Unreal Engine** ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | |
+| **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | [url-shortener](https://github.com/boycececil666gmailcom/url-shortener) |
+| **Kubernetes** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | [url-shortener](https://github.com/boycececil666gmailcom/url-shortener) |
 | **LangGraph** ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white) | |
 
 ---
