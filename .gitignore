@@ -22,3 +22,6 @@ logs/
 # Temp files
 *.tmp
 *.temp
+
+# Nested projects
+auto-coder-langgraph/
