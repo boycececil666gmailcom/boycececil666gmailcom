@@ -13,7 +13,15 @@ async function getPublicationId() {
   if (PUBLICATION_ID) return PUBLICATION_ID;
 
   console.log('Fetching Publication ID automatically using HASHNODE_TOKEN...');
-  const query = `
+  
+  const headers = {
+    'Content-Type': 'application/json',
+    'Authorization': HASHNODE_TOKEN,
+    'User-Agent': 'NodeJS-Hashnode-Publisher/1.0'
+  };
+
+  // Try fetching user publications via me query first
+  const meQuery = `
     query Me {
       me {
         publications(first: 1) {
@@ -28,24 +36,58 @@ async function getPublicationId() {
     }
   `;
 
-  const response = await fetch('https://gql.hashnode.com', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': HASHNODE_TOKEN
-    },
-    body: JSON.stringify({ query })
-  });
+  try {
+    const response = await fetch('https://gql.hashnode.com', {
+      method: 'POST',
+      headers,
+      body: JSON.stringify({ query: meQuery })
+    });
 
-  const resData = await response.json();
-  const pubNode = resData.data?.me?.publications?.edges?.[0]?.node;
+    const text = await response.text();
 
-  if (pubNode && pubNode.id) {
-    console.log(`Found Publication: "${pubNode.title}" (ID: ${pubNode.id})`);
-    return pubNode.id;
+    if (!response.ok) {
+      console.error(`Hashnode API returned HTTP status ${response.status}:`, text.slice(0, 200));
+    } else {
+      const resData = JSON.parse(text);
+      const pubNode = resData.data?.me?.publications?.edges?.[0]?.node;
+
+      if (pubNode && pubNode.id) {
+        console.log(`Found Publication: "${pubNode.title}" (ID: ${pubNode.id})`);
+        return pubNode.id;
+      }
+    }
+  } catch (err) {
+    console.warn('Failed to resolve via me query, trying domain lookup...', err.message);
   }
 
-  throw new Error('Failed to resolve Publication ID automatically. Please set HASHNODE_PUBLICATION_ID manually.');
+  // Fallback: Query by host domain 'boycececil666.hashnode.dev'
+  console.log('Attempting lookup via host "boycececil666.hashnode.dev"...');
+  const hostQuery = `
+    query PublicationByHost {
+      publication(host: "boycececil666.hashnode.dev") {
+        id
+        title
+      }
+    }
+  `;
+
+  const hostResponse = await fetch('https://gql.hashnode.com', {
+    method: 'POST',
+    headers,
+    body: JSON.stringify({ query: hostQuery })
+  });
+
+  const hostText = await hostResponse.text();
+  if (hostResponse.ok) {
+    const hostData = JSON.parse(hostText);
+    const pub = hostData.data?.publication;
+    if (pub && pub.id) {
+      console.log(`Found Publication via Host: "${pub.title}" (ID: ${pub.id})`);
+      return pub.id;
+    }
+  }
+
+  throw new Error(`Failed to resolve Publication ID automatically. Server output: ${hostText.slice(0, 300)}`);
 }
 
 const articlesDir = path.join(__dirname, '../articles/hashnode');
@@ -117,17 +159,30 @@ async function publishArticle(filePath, pubId) {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': HASHNODE_TOKEN
+      'Authorization': HASHNODE_TOKEN,
+      'User-Agent': 'NodeJS-Hashnode-Publisher/1.0'
     },
     body: JSON.stringify({ query, variables })
   });
 
-  const resData = await response.json();
+  const text = await response.text();
+  if (!response.ok) {
+    console.error(`Hashnode publish HTTP Error ${response.status}:`, text.slice(0, 300));
+    return;
+  }
+
+  let resData;
+  try {
+    resData = JSON.parse(text);
+  } catch (err) {
+    console.error(`Failed to parse response JSON: ${err.message}. Response text:`, text.slice(0, 300));
+    return;
+  }
 
   if (resData.errors) {
     console.error(`Failed to publish "${title}":`, JSON.stringify(resData.errors, null, 2));
   } else {
-    console.log(`Successfully published "${title}"! URL: ${resData.data.publishPost.post.url}`);
+    console.log(`Successfully published "${title}"! URL: ${resData.data?.publishPost?.post?.url}`);
   }
 }
 
