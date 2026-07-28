@@ -10,6 +10,8 @@ Instead of opening traditional video editors like Premiere Pro or After Effects,
 
 To evaluate its real-world capabilities, I built an animated tech explainer video for an **"Enterprise RAG Engine"** (35 seconds, 4 distinct scenes) and updated my findings below.
 
+*(Updated for automated publishing pipeline test)*
+
 Here is a breakdown of what I built, how the architecture works, and my honest reflections on using React as a video editing timeline.
 
 ---

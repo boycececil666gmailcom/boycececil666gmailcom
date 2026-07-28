@@ -7,6 +7,8 @@ on:
       - main
     paths:
       - 'articles/hashnode/**.md'
+      - 'scripts/**'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 jobs:
