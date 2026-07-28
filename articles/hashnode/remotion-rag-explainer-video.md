@@ -8,7 +8,7 @@ published: true
 
 Instead of opening traditional video editors like Premiere Pro or After Effects, I recently tested **Remotion**—a framework that lets you program and render videos using pure **React and TypeScript**.
 
-To evaluate its real-world capabilities, I built an animated tech explainer video for an **"Enterprise RAG Engine"** (35 seconds, 4 distinct scenes).
+To evaluate its real-world capabilities, I built an animated tech explainer video for an **"Enterprise RAG Engine"** (35 seconds, 4 distinct scenes) and updated my findings below.
 
 Here is a breakdown of what I built, how the architecture works, and my honest reflections on using React as a video editing timeline.
 
