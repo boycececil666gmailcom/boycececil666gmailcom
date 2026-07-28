@@ -2,11 +2,50 @@ const fs = require('fs');
 const path = require('path');
 
 const HASHNODE_TOKEN = process.env.HASHNODE_TOKEN;
-const PUBLICATION_ID = process.env.HASHNODE_PUBLICATION_ID;
+let PUBLICATION_ID = process.env.HASHNODE_PUBLICATION_ID;
 
-if (!HASHNODE_TOKEN || !PUBLICATION_ID) {
-  console.error('Error: HASHNODE_TOKEN and HASHNODE_PUBLICATION_ID environment variables are required.');
+if (!HASHNODE_TOKEN) {
+  console.error('Error: HASHNODE_TOKEN environment variable is required.');
   process.exit(1);
+}
+
+async function getPublicationId() {
+  if (PUBLICATION_ID) return PUBLICATION_ID;
+
+  console.log('Fetching Publication ID automatically using HASHNODE_TOKEN...');
+  const query = `
+    query Me {
+      me {
+        publications(first: 1) {
+          edges {
+            node {
+              id
+              title
+            }
+          }
+        }
+      }
+    }
+  `;
+
+  const response = await fetch('https://gql.hashnode.com', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': HASHNODE_TOKEN
+    },
+    body: JSON.stringify({ query })
+  });
+
+  const resData = await response.json();
+  const pubNode = resData.data?.me?.publications?.edges?.[0]?.node;
+
+  if (pubNode && pubNode.id) {
+    console.log(`Found Publication: "${pubNode.title}" (ID: ${pubNode.id})`);
+    return pubNode.id;
+  }
+
+  throw new Error('Failed to resolve Publication ID automatically. Please set HASHNODE_PUBLICATION_ID manually.');
 }
 
 const articlesDir = path.join(__dirname, '../articles/hashnode');
@@ -37,7 +76,7 @@ function parseFrontmatter(fileContent) {
   return { metadata, content: match[2].trim() };
 }
 
-async function publishArticle(filePath) {
+async function publishArticle(filePath, pubId) {
   const rawContent = fs.readFileSync(filePath, 'utf-8');
   const { metadata, content } = parseFrontmatter(rawContent);
 
@@ -66,7 +105,7 @@ async function publishArticle(filePath) {
     input: {
       title: title,
       contentMarkdown: content,
-      publicationId: PUBLICATION_ID,
+      publicationId: pubId,
       slug: slug,
       tags: tags
     }
@@ -93,6 +132,8 @@ async function publishArticle(filePath) {
 }
 
 async function main() {
+  const pubId = await getPublicationId();
+
   if (!fs.existsSync(articlesDir)) {
     console.log('No articles/hashnode directory found.');
     return;
@@ -102,7 +143,7 @@ async function main() {
 
   for (const file of files) {
     const fullPath = path.join(articlesDir, file);
-    await publishArticle(fullPath);
+    await publishArticle(fullPath, pubId);
   }
 }
 
