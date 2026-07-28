@@ -1,0 +1,28 @@
+name: Hashnode Auto Publish
+
+on:
+  push:
+    branches:
+      - master
+      - main
+    paths:
+      - 'articles/hashnode/**.md'
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Hashnode Publisher
+        env:
+          HASHNODE_TOKEN: ${{ secrets.HASHNODE_TOKEN }}
+          HASHNODE_PUBLICATION_ID: ${{ secrets.HASHNODE_PUBLICATION_ID }}
+        run: node scripts/publish-hashnode.js
