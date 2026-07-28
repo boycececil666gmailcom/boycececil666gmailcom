@@ -2,58 +2,16 @@ const fs = require('fs');
 const path = require('path');
 
 const HASHNODE_TOKEN = process.env.HASHNODE_TOKEN;
-let PUBLICATION_ID = process.env.HASHNODE_PUBLICATION_ID;
+const PUBLICATION_ID = process.env.HASHNODE_PUBLICATION_ID;
 
 if (!HASHNODE_TOKEN) {
-  console.error('Error: HASHNODE_TOKEN environment variable is required.');
+  console.error('Error: HASHNODE_TOKEN environment variable is missing.');
   process.exit(1);
 }
 
-async function getPublicationId() {
-  if (PUBLICATION_ID) return PUBLICATION_ID;
-
-  console.log('Fetching Publication ID automatically via public host query (boycececil666.hashnode.dev)...');
-  
-  const hostQuery = `
-    query PublicationByHost {
-      publication(host: "boycececil666.hashnode.dev") {
-        id
-        title
-      }
-    }
-  `;
-
-  try {
-    const response = await fetch('https://gql.hashnode.com', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'User-Agent': 'NodeJS-Hashnode-Publisher/1.0'
-      },
-      body: JSON.stringify({ query: hostQuery })
-    });
-
-    const text = await response.text();
-
-    if (response.ok) {
-      try {
-        const data = JSON.parse(text);
-        const pub = data.data?.publication;
-        if (pub && pub.id) {
-          console.log(`Found Publication: "${pub.title}" (ID: ${pub.id})`);
-          return pub.id;
-        }
-      } catch (e) {
-        console.error('Failed to parse JSON response:', text.slice(0, 200));
-      }
-    } else {
-      console.error(`HTTP status ${response.status} returned:`, text.slice(0, 200));
-    }
-  } catch (err) {
-    console.error('Network error while querying host:', err.message);
-  }
-
-  throw new Error('Failed to resolve Publication ID automatically via host query.');
+if (!PUBLICATION_ID) {
+  console.error('Error: HASHNODE_PUBLICATION_ID environment variable is missing. Please set it in GitHub Secrets.');
+  process.exit(1);
 }
 
 const articlesDir = path.join(__dirname, '../articles/hashnode');
@@ -153,8 +111,6 @@ async function publishArticle(filePath, pubId) {
 }
 
 async function main() {
-  const pubId = await getPublicationId();
-
   if (!fs.existsSync(articlesDir)) {
     console.log('No articles/hashnode directory found.');
     return;
@@ -164,7 +120,7 @@ async function main() {
 
   for (const file of files) {
     const fullPath = path.join(articlesDir, file);
-    await publishArticle(fullPath, pubId);
+    await publishArticle(fullPath, PUBLICATION_ID);
   }
 }
 
