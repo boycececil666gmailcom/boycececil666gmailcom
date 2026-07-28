@@ -12,56 +12,8 @@ if (!HASHNODE_TOKEN) {
 async function getPublicationId() {
   if (PUBLICATION_ID) return PUBLICATION_ID;
 
-  console.log('Fetching Publication ID automatically using HASHNODE_TOKEN...');
+  console.log('Fetching Publication ID automatically via public host query (boycececil666.hashnode.dev)...');
   
-  const headers = {
-    'Content-Type': 'application/json',
-    'Authorization': HASHNODE_TOKEN,
-    'User-Agent': 'NodeJS-Hashnode-Publisher/1.0'
-  };
-
-  // Try fetching user publications via me query first
-  const meQuery = `
-    query Me {
-      me {
-        publications(first: 1) {
-          edges {
-            node {
-              id
-              title
-            }
-          }
-        }
-      }
-    }
-  `;
-
-  try {
-    const response = await fetch('https://gql.hashnode.com', {
-      method: 'POST',
-      headers,
-      body: JSON.stringify({ query: meQuery })
-    });
-
-    const text = await response.text();
-
-    if (!response.ok) {
-      console.error(`Hashnode API returned HTTP status ${response.status}:`, text.slice(0, 200));
-    } else {
-      const resData = JSON.parse(text);
-      const pubNode = resData.data?.me?.publications?.edges?.[0]?.node;
-
-      if (pubNode && pubNode.id) {
-        console.log(`Found Publication: "${pubNode.title}" (ID: ${pubNode.id})`);
-        return pubNode.id;
-      }
-    }
-  } catch (err) {
-    console.warn('Failed to resolve via me query, trying domain lookup...', err.message);
-  }
-
-  // Fallback: Query by host domain 'boycececil666.hashnode.dev'
-  console.log('Attempting lookup via host "boycececil666.hashnode.dev"...');
   const hostQuery = `
     query PublicationByHost {
       publication(host: "boycececil666.hashnode.dev") {
@@ -71,23 +23,37 @@ async function getPublicationId() {
     }
   `;
 
-  const hostResponse = await fetch('https://gql.hashnode.com', {
-    method: 'POST',
-    headers,
-    body: JSON.stringify({ query: hostQuery })
-  });
+  try {
+    const response = await fetch('https://gql.hashnode.com', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'User-Agent': 'NodeJS-Hashnode-Publisher/1.0'
+      },
+      body: JSON.stringify({ query: hostQuery })
+    });
 
-  const hostText = await hostResponse.text();
-  if (hostResponse.ok) {
-    const hostData = JSON.parse(hostText);
-    const pub = hostData.data?.publication;
-    if (pub && pub.id) {
-      console.log(`Found Publication via Host: "${pub.title}" (ID: ${pub.id})`);
-      return pub.id;
+    const text = await response.text();
+
+    if (response.ok) {
+      try {
+        const data = JSON.parse(text);
+        const pub = data.data?.publication;
+        if (pub && pub.id) {
+          console.log(`Found Publication: "${pub.title}" (ID: ${pub.id})`);
+          return pub.id;
+        }
+      } catch (e) {
+        console.error('Failed to parse JSON response:', text.slice(0, 200));
+      }
+    } else {
+      console.error(`HTTP status ${response.status} returned:`, text.slice(0, 200));
     }
+  } catch (err) {
+    console.error('Network error while querying host:', err.message);
   }
 
-  throw new Error(`Failed to resolve Publication ID automatically. Server output: ${hostText.slice(0, 300)}`);
+  throw new Error('Failed to resolve Publication ID automatically via host query.');
 }
 
 const articlesDir = path.join(__dirname, '../articles/hashnode');
