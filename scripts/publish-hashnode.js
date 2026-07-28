@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const HASHNODE_TOKEN = process.env.HASHNODE_TOKEN;
-const PUBLICATION_ID = process.env.HASHNODE_PUBLICATION_ID;
+let PUBLICATION_ID = process.env.HASHNODE_PUBLICATION_ID;
 
 if (!HASHNODE_TOKEN) {
   console.error('Error: HASHNODE_TOKEN environment variable is missing.');
@@ -12,6 +12,54 @@ if (!HASHNODE_TOKEN) {
 if (!PUBLICATION_ID) {
   console.error('Error: HASHNODE_PUBLICATION_ID environment variable is missing. Please set it in GitHub Secrets.');
   process.exit(1);
+}
+
+async function resolvePublicationId(inputKey) {
+  // If it's already a 24-character hexadecimal ID (MongoDB ObjectId), return as-is
+  if (/^[0-9a-fA-F]{24}$/.test(inputKey)) {
+    return inputKey;
+  }
+
+  // Otherwise, treat inputKey as a domain/subdomain (e.g. boycececil666.hashnode.dev)
+  const host = inputKey.replace(/^https?:\/\//, '').replace(/\/$/, '');
+  console.log(`Resolving Publication ID for host domain: "${host}"...`);
+
+  const hostQuery = `
+    query PublicationByHost($host: String!) {
+      publication(host: $host) {
+        id
+        title
+      }
+    }
+  `;
+
+  try {
+    const response = await fetch('https://gql.hashnode.com', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'User-Agent': 'NodeJS-Hashnode-Publisher/1.0'
+      },
+      body: JSON.stringify({
+        query: hostQuery,
+        variables: { host }
+      })
+    });
+
+    const text = await response.text();
+    if (response.ok) {
+      const data = JSON.parse(text);
+      const pubId = data.data?.publication?.id;
+      if (pubId) {
+        console.log(`Successfully resolved host "${host}" -> Internal ID: ${pubId}`);
+        return pubId;
+      }
+    }
+  } catch (err) {
+    console.error(`Failed to resolve host "${host}":`, err.message);
+  }
+
+  return inputKey;
 }
 
 const articlesDir = path.join(__dirname, '../articles/hashnode');
@@ -111,6 +159,8 @@ async function publishArticle(filePath, pubId) {
 }
 
 async function main() {
+  const targetPubId = await resolvePublicationId(PUBLICATION_ID);
+
   if (!fs.existsSync(articlesDir)) {
     console.log('No articles/hashnode directory found.');
     return;
@@ -120,7 +170,7 @@ async function main() {
 
   for (const file of files) {
     const fullPath = path.join(articlesDir, file);
-    await publishArticle(fullPath, PUBLICATION_ID);
+    await publishArticle(fullPath, targetPubId);
   }
 }
 
