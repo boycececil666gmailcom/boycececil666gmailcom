@@ -20,8 +20,8 @@
 
 **Proficiency Scale:**
 - ![Proficiency: 1](https://img.shields.io/badge/Proficiency-1-A5D6A7?style=flat-square) — **Foundational**: Basic Syntax, basic prototyping experience and basic code reading.
-- ![Proficiency: 2](https://img.shields.io/badge/Proficiency-2-4CAF50?style=flat-square) — **Proficient**: Progressive understanding of deeper trade-offs, and strong comfort and familiarity with syntax and concepts.
-- ![Proficiency: 3](https://img.shields.io/badge/Proficiency-3-2E7D32?style=flat-square) — **Mastery**: Latency/resource optimization, resilience, security, full consulting ability, and deep trade-off evaluation.
+- ![Proficiency: 2](https://img.shields.io/badge/Proficiency-2-4CAF50?style=flat-square) — **Proficient**: Progressive understanding of trade-offs performance, resilience and security feature, and strong comfort and familiarity with syntax and concepts.
+- ![Proficiency: 3](https://img.shields.io/badge/Proficiency-3-2E7D32?style=flat-square) — **Mastery**: Performance, resilience and security optimization, design-phase trade-off analysis, standard library source code debugging.
 
 | Scope | Stage | Technology |
 |:---:|:---|:---|
