@@ -9,8 +9,29 @@
 
 </div>
 
+## Focus
+
+I am a **Pi-shaped (π-shaped) engineer** with dual core pillars in **Backend Systems** and **AI Engineering**, supported by broad cross-functional competence across frontend, SRE, computer graphics, and trilingual communication (English, Japanese, Chinese).
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│  frontend / SRE / graphics / English / Japanese / Chinese /   │
+└───┬───────────────────────┬───────┬───────────────────────┬───┘
+    │                       │       │                       │
+    │        Backend        │       │           AI          │
+    │                       │       │                       │
+    │  - Go / Python / C    │       │  - Workflow           │
+    │  - System Design      │       │  - Agentic            │
+    │  - Performance        │       │  - Custom training    │
+    │  - Low level          │       │                       │
+    └───────────────────────┘       └───────────────────────┘
+```
+
+---
 
 ## Tech
+
+A comprehensive overview of technologies I actively utilize, mapped across each stage of the **software development and CI/CD lifecycle**:
 
 <div align="center">
   <img src="./CICDBlog.webp" alt="DevOps Lifecycle Loop" width="560" />

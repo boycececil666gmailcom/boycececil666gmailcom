@@ -1,0 +1,11 @@
+┌───────────────────────────────────────────────────────────────┐
+│  frontend / SRE / graphics / English / Japanese / Chinese /   │
+└───┬───────────────────────┬───────┬───────────────────────┬───┘
+    │                       │       │                       │
+    │        Backend        │       │           AI          │
+    │                       │       │                       │
+    │  - Go / Python / C    │       │  - Workflow           │
+    │  - System Design      │       │  - Agentic            │
+    │  - Performance        │       │  - Custom trainging   │
+    │  - Low level          │       │                       │
+    └───────────────────────┘       └───────────────────────┘
