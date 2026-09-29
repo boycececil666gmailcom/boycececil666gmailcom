@@ -1,11 +1,12 @@
-┌───────────────────────────────────────────────────────────────┐
-│  frontend / SRE / graphics / English / Japanese / Chinese /   │
-└───┬───────────────────────┬───────┬───────────────────────┬───┘
-    │                       │       │                       │
-    │        Backend        │       │           AI          │
-    │                       │       │                       │
-    │  - Go / Python / C    │       │  - Workflow           │
-    │  - System Design      │       │  - Agentic            │
-    │  - Performance        │       │  - Custom trainging   │
-    │  - Low level          │       │                       │
-    └───────────────────────┘       └───────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────┐
+│        frontend / SRE / graphics / English / Japanese / Chinese /         │
+└───┬─────────────────────────────┬───────┬─────────────────────────────┬───┘
+    │                             │       │                             │
+    │           Backend           │       │              AI             │
+    │                             │       │                             │
+    │  - Go                       │       │  - Python                   │
+    │  - System Programming       │       │  - Academic Understanding   │
+    │  - Low level                │       │  - Workflow                 │
+    │                             │       │  - Agentic                  │
+    │                             │       │  - Custom training          │
+    └─────────────────────────────┘       └─────────────────────────────┘
