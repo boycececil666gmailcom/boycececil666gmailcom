@@ -11,20 +11,20 @@
 
 ## Focus
 
-I am a **Pi-shaped (π-shaped) engineer** with dual core pillars in **Backend Systems** and **AI Engineering**, supported by broad cross-functional competence across frontend, SRE, computer graphics, and trilingual communication (English, Japanese, Chinese).
+I am a **Pi-shaped (π-shaped) engineer** with dual core pillars in **System Design** and **AI Engineering**, supported by broad cross-functional competence across frontend, SRE, computer graphics, and trilingual communication (English, Japanese, Chinese).
 
 ```text
 ┌───────────────────────────────────────────────────────────────────────────┐
 │        frontend / SRE / graphics / English / Japanese / Chinese /         │
 └───┬─────────────────────────────┬───────┬─────────────────────────────┬───┘
     │                             │       │                             │
-    │           Backend           │       │              AI             │
+    │        System Design        │       │              AI             │
     │                             │       │                             │
     │  - Go                       │       │  - Python                   │
-    │  - System Programming       │       │  - Academic Understanding   │
-    │  - Low level                │       │  - Workflow                 │
-    │                             │       │  - Agentic                  │
-    │                             │       │  - Custom training          │
+    │  - Distributed Systems      │       │  - Academic Understanding   │
+    │  - High Concurrency         │       │  - Workflow                 │
+    │  - Storage & Caching        │       │  - Agentic                  │
+    │  - Resilience & Security    │       │  - Custom training          │
     └─────────────────────────────┘       └─────────────────────────────┘
 ```
 
@@ -65,13 +65,13 @@ A comprehensive overview of technologies I actively utilize, mapped across each 
 ---
 
 ## Projects
-| Repo | Category | Tech Stack | Description |
-|------|:---:|------------|-------------|
-| [pygl-renderer](https://github.com/boycececil666gmailcom/pygl-renderer)<br/>![Stars](https://img.shields.io/github/stars/boycececil666gmailcom/pygl-renderer?style=flat-square) | ![3D](https://img.shields.io/badge/3D-7B42BC?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) ![glTF](https://img.shields.io/badge/glTF-000000?style=flat-square) | Modular 3D OpenGL rendering engine in Python supporting glTF/GLB geometry, PBR materials, and camera controls |
-| [project-wildcard](https://github.com/boycececil666gmailcom/project-wildcard)<br/>![Stars](https://img.shields.io/github/stars/boycececil666gmailcom/project-wildcard?style=flat-square) | ![3D](https://img.shields.io/badge/3D-7B42BC?style=flat-square) | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | Game project built in Godot |
-| [documentation-chatbot](https://github.com/boycececil666gmailcom/documentation-chatbot)<br/>![Stars](https://img.shields.io/github/stars/boycececil666gmailcom/documentation-chatbot?style=flat-square) | ![AI](https://img.shields.io/badge/AI-009688?style=flat-square) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4B4B?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![BM25](https://img.shields.io/badge/BM25-00BCD4?style=flat-square) ![RRF](https://img.shields.io/badge/RRF-FF5722?style=flat-square) ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-4CAF50?style=flat-square) ![Reranking](https://img.shields.io/badge/Reranking-9C27B0?style=flat-square) | Modular documentation chatbot and local RAG backend featuring BM25 & dense vector hybrid search, RRF, local heuristic reranking, and query expansion |
-| [nn-fundamental](https://github.com/boycececil666gmailcom/nn-fundamental)<br/>![Stars](https://img.shields.io/github/stars/boycececil666gmailcom/nn-fundamental?style=flat-square) | ![AI](https://img.shields.io/badge/AI-009688?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | From-scratch neural network implementation in Python/NumPy covering core activations, multi-layer feedforward propagation, and classification dynamics |
-| [url-shortener](https://github.com/boycececil666gmailcom/url-shortener)<br/>![Stars](https://img.shields.io/github/stars/boycececil666gmailcom/url-shortener?style=flat-square) | ![Backend](https://img.shields.io/badge/Backend-00ADD8?style=flat-square) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) | High-performance URL shortener service built with Go, featuring automated CI/CD build and test pipelines orchestrated by Jenkins |
+| Repo | Category | Tech Stack | Description | Story |
+|------|:---:|------------|-------------|-------|
+| [pygl-renderer](https://github.com/boycececil666gmailcom/pygl-renderer)<br/>![Stars](https://img.shields.io/github/stars/boycececil666gmailcom/pygl-renderer?style=flat-square) | ![3D](https://img.shields.io/badge/3D-7B42BC?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) ![glTF](https://img.shields.io/badge/glTF-000000?style=flat-square) | Modular 3D OpenGL rendering engine in Python supporting glTF/GLB geometry, PBR materials, and camera controls | - |
+| [project-wildcard](https://github.com/boycececil666gmailcom/project-wildcard)<br/>![Stars](https://img.shields.io/github/stars/boycececil666gmailcom/project-wildcard?style=flat-square) | ![3D](https://img.shields.io/badge/3D-7B42BC?style=flat-square) | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | Game project built in Godot | - |
+| [documentation-chatbot](https://github.com/boycececil666gmailcom/documentation-chatbot)<br/>![Stars](https://img.shields.io/github/stars/boycececil666gmailcom/documentation-chatbot?style=flat-square) | ![AI](https://img.shields.io/badge/AI-009688?style=flat-square) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4B4B?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![BM25](https://img.shields.io/badge/BM25-00BCD4?style=flat-square) ![RRF](https://img.shields.io/badge/RRF-FF5722?style=flat-square) ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-4CAF50?style=flat-square) ![Reranking](https://img.shields.io/badge/Reranking-9C27B0?style=flat-square) | Modular documentation chatbot and local RAG backend featuring BM25 & dense vector hybrid search, RRF, local heuristic reranking, and query expansion | 1. Implemented Jev to reduce inference cost by 20%<br/>2. Improved retrieval accuracy via Ragas<br/>3. Enhanced cache hit rate |
+| [nn-fundamental](https://github.com/boycececil666gmailcom/nn-fundamental)<br/>![Stars](https://img.shields.io/github/stars/boycececil666gmailcom/nn-fundamental?style=flat-square) | ![AI](https://img.shields.io/badge/AI-009688?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | From-scratch neural network implementation in Python/NumPy covering core activations, multi-layer feedforward propagation, and classification dynamics | - |
+| [url-shortener](https://github.com/boycececil666gmailcom/url-shortener)<br/>![Stars](https://img.shields.io/github/stars/boycececil666gmailcom/url-shortener?style=flat-square) | ![Backend](https://img.shields.io/badge/Backend-00ADD8?style=flat-square) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) | High-performance URL shortener service built with Go, featuring automated CI/CD build and test pipelines orchestrated by Jenkins | - |
 
 ---
 
